@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+
+# Raw audio datasets (very large)
+Datasets/
+*.mp3
+*.wav
+
+# Processed features (very large tensor files)
+data/processed/
+
+# Cached checkpoints not meant for tracking
+*.ckpt
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude
+.claude/

@@ -1,0 +1,85 @@
+# EdgeCAAI-Net Default Configuration
+# Shared defaults for all experiments
+
+# Audio preprocessing
+audio:
+  sample_rate: 22050
+  channels: mono
+  segment_length: 3.0        # seconds
+  segment_hop: 1.5           # seconds (50% overlap)
+  normalize: true            # peak normalization
+
+# Feature extraction (log-mel spectrogram)
+features:
+  n_fft: 1024
+  hop_length: 512
+  n_mels: 64
+  log_compression: true      # log(1 + 10 * mel)
+  log_scale: 10
+
+# Model architecture
+model:
+  name: edgecaai_net
+  d_model: 128
+  n_heads: 4
+  n_blocks: 6
+  ffn_dim: 256
+  stem_channels: 64
+  depthwise_kernel_size: 11
+  pooling: attentive_stats    # attentive_stats | attention
+  classifier_hidden: 128
+  dropout: 0.15
+
+# Early exits
+exits:
+  positions: [2, 4, 6]       # after which blocks
+  weights: [0.2, 0.3, 0.5]   # deep supervision loss weights
+  confidence_threshold: 0.8  # inference threshold
+  compute_costs: [0.35, 0.70, 1.0]  # normalized c_e
+
+# Budget-aware training
+budget:
+  lambda_budget: 0.02        # budget penalty strength
+
+# Artist invariance
+artist_invariance:
+  method: grl                # grl | groupdro | none
+  alpha: 0.2                 # GRL strength
+
+# Training
+training:
+  optimizer: adamw
+  lr: 3.0e-4
+  weight_decay: 1.0e-2
+  batch_size: 32
+  epochs: 80
+  warmup_fraction: 0.05      # fraction of total steps
+  lr_schedule: cosine
+  early_stopping_patience: 10
+  early_stopping_metric: macro_f1
+
+# Regularization
+regularization:
+  dropout: 0.15
+  label_smoothing: 0.1
+  mixup_alpha: 0.2           # 0 to disable
+
+# Augmentation
+augmentation:
+  spec_augment: true
+  time_mask_param: 20
+  freq_mask_param: 10
+  random_gain: true
+  gain_range: [0.8, 1.2]
+  time_shift: true
+  max_shift_ms: 500
+
+# Evaluation
+evaluation:
+  metrics: [macro_f1, balanced_accuracy, ece]
+  latency_num_runs: 100
+  segment_length_sec: 3.0
+
+# Reproducibility
+seed: 42
+num_workers: 4

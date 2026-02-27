@@ -1,0 +1,25 @@
+defaults: ../default.yaml
+
+experiment:
+  name: tiny_cnn_fma_track
+  description: "Baseline A: TinyCNN on FMA track-disjoint"
+
+model:
+  name: tiny_cnn
+
+dataset:
+  name: fma_small
+  audio_dir: Datasets/fma/fma_small
+  metadata_dir: Datasets/fma/fma_metadata
+  num_genres: 8
+  split_type: track_disjoint
+  split_dir: data/splits
+  split_files:
+    train: track_disjoint_train.json
+    val: track_disjoint_val.json
+    test: track_disjoint_test.json
+  processed_dir: data/processed/fma_track
+
+results:
+  output_dir: results/baselines/tiny_cnn_track
+  checkpoint_dir: results/baselines/tiny_cnn_track/checkpoints

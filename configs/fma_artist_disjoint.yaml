@@ -1,0 +1,30 @@
+# FMA Artist-Disjoint Experiment Configuration
+# Inherits from default.yaml, overrides dataset-specific settings
+
+defaults: default.yaml
+
+experiment:
+  name: fma_artist_disjoint
+  description: "FMA Small - artist-disjoint split with artist invariance"
+
+dataset:
+  name: fma_small
+  audio_dir: Datasets/fma/fma_small
+  metadata_dir: Datasets/fma/fma_metadata
+  num_genres: 8
+  split_type: artist_disjoint
+  split_dir: data/splits
+  split_files:
+    train: artist_disjoint_train.json
+    val: artist_disjoint_val.json
+    test: artist_disjoint_test.json
+  processed_dir: data/processed/fma_artist
+
+# Artist invariance enabled
+artist_invariance:
+  method: grl
+  alpha: 0.2
+
+results:
+  output_dir: results/fma_artist_disjoint
+  checkpoint_dir: results/fma_artist_disjoint/checkpoints

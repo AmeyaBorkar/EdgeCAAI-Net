@@ -1,0 +1,1059 @@
+[
+  {
+    "track_id": "disco.00048",
+    "artist_id": -1,
+    "genre": "disco",
+    "genre_idx": 3,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\disco\\disco.00048.wav"
+  },
+  {
+    "track_id": "country.00069",
+    "artist_id": -1,
+    "genre": "country",
+    "genre_idx": 2,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\country\\country.00069.wav"
+  },
+  {
+    "track_id": "reggae.00000",
+    "artist_id": -1,
+    "genre": "reggae",
+    "genre_idx": 8,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\reggae\\reggae.00000.wav"
+  },
+  {
+    "track_id": "reggae.00015",
+    "artist_id": -1,
+    "genre": "reggae",
+    "genre_idx": 8,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\reggae\\reggae.00015.wav"
+  },
+  {
+    "track_id": "reggae.00020",
+    "artist_id": -1,
+    "genre": "reggae",
+    "genre_idx": 8,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\reggae\\reggae.00020.wav"
+  },
+  {
+    "track_id": "hiphop.00080",
+    "artist_id": -1,
+    "genre": "hiphop",
+    "genre_idx": 4,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\hiphop\\hiphop.00080.wav"
+  },
+  {
+    "track_id": "country.00067",
+    "artist_id": -1,
+    "genre": "country",
+    "genre_idx": 2,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\country\\country.00067.wav"
+  },
+  {
+    "track_id": "classical.00098",
+    "artist_id": -1,
+    "genre": "classical",
+    "genre_idx": 1,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\classical\\classical.00098.wav"
+  },
+  {
+    "track_id": "pop.00048",
+    "artist_id": -1,
+    "genre": "pop",
+    "genre_idx": 7,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\pop\\pop.00048.wav"
+  },
+  {
+    "track_id": "rock.00052",
+    "artist_id": -1,
+    "genre": "rock",
+    "genre_idx": 9,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\rock\\rock.00052.wav"
+  },
+  {
+    "track_id": "reggae.00004",
+    "artist_id": -1,
+    "genre": "reggae",
+    "genre_idx": 8,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\reggae\\reggae.00004.wav"
+  },
+  {
+    "track_id": "pop.00050",
+    "artist_id": -1,
+    "genre": "pop",
+    "genre_idx": 7,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\pop\\pop.00050.wav"
+  },
+  {
+    "track_id": "metal.00098",
+    "artist_id": -1,
+    "genre": "metal",
+    "genre_idx": 6,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\metal\\metal.00098.wav"
+  },
+  {
+    "track_id": "metal.00071",
+    "artist_id": -1,
+    "genre": "metal",
+    "genre_idx": 6,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\metal\\metal.00071.wav"
+  },
+  {
+    "track_id": "jazz.00085",
+    "artist_id": -1,
+    "genre": "jazz",
+    "genre_idx": 5,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\jazz\\jazz.00085.wav"
+  },
+  {
+    "track_id": "reggae.00049",
+    "artist_id": -1,
+    "genre": "reggae",
+    "genre_idx": 8,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\reggae\\reggae.00049.wav"
+  },
+  {
+    "track_id": "rock.00039",
+    "artist_id": -1,
+    "genre": "rock",
+    "genre_idx": 9,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\rock\\rock.00039.wav"
+  },
+  {
+    "track_id": "country.00094",
+    "artist_id": -1,
+    "genre": "country",
+    "genre_idx": 2,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\country\\country.00094.wav"
+  },
+  {
+    "track_id": "disco.00034",
+    "artist_id": -1,
+    "genre": "disco",
+    "genre_idx": 3,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\disco\\disco.00034.wav"
+  },
+  {
+    "track_id": "blues.00041",
+    "artist_id": -1,
+    "genre": "blues",
+    "genre_idx": 0,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\blues\\blues.00041.wav"
+  },
+  {
+    "track_id": "pop.00068",
+    "artist_id": -1,
+    "genre": "pop",
+    "genre_idx": 7,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\pop\\pop.00068.wav"
+  },
+  {
+    "track_id": "metal.00062",
+    "artist_id": -1,
+    "genre": "metal",
+    "genre_idx": 6,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\metal\\metal.00062.wav"
+  },
+  {
+    "track_id": "reggae.00055",
+    "artist_id": -1,
+    "genre": "reggae",
+    "genre_idx": 8,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\reggae\\reggae.00055.wav"
+  },
+  {
+    "track_id": "pop.00032",
+    "artist_id": -1,
+    "genre": "pop",
+    "genre_idx": 7,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\pop\\pop.00032.wav"
+  },
+  {
+    "track_id": "disco.00016",
+    "artist_id": -1,
+    "genre": "disco",
+    "genre_idx": 3,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\disco\\disco.00016.wav"
+  },
+  {
+    "track_id": "blues.00052",
+    "artist_id": -1,
+    "genre": "blues",
+    "genre_idx": 0,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\blues\\blues.00052.wav"
+  },
+  {
+    "track_id": "classical.00036",
+    "artist_id": -1,
+    "genre": "classical",
+    "genre_idx": 1,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\classical\\classical.00036.wav"
+  },
+  {
+    "track_id": "hiphop.00063",
+    "artist_id": -1,
+    "genre": "hiphop",
+    "genre_idx": 4,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\hiphop\\hiphop.00063.wav"
+  },
+  {
+    "track_id": "blues.00072",
+    "artist_id": -1,
+    "genre": "blues",
+    "genre_idx": 0,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\blues\\blues.00072.wav"
+  },
+  {
+    "track_id": "pop.00089",
+    "artist_id": -1,
+    "genre": "pop",
+    "genre_idx": 7,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\pop\\pop.00089.wav"
+  },
+  {
+    "track_id": "hiphop.00068",
+    "artist_id": -1,
+    "genre": "hiphop",
+    "genre_idx": 4,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\hiphop\\hiphop.00068.wav"
+  },
+  {
+    "track_id": "blues.00061",
+    "artist_id": -1,
+    "genre": "blues",
+    "genre_idx": 0,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\blues\\blues.00061.wav"
+  },
+  {
+    "track_id": "metal.00038",
+    "artist_id": -1,
+    "genre": "metal",
+    "genre_idx": 6,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\metal\\metal.00038.wav"
+  },
+  {
+    "track_id": "metal.00018",
+    "artist_id": -1,
+    "genre": "metal",
+    "genre_idx": 6,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\metal\\metal.00018.wav"
+  },
+  {
+    "track_id": "rock.00073",
+    "artist_id": -1,
+    "genre": "rock",
+    "genre_idx": 9,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\rock\\rock.00073.wav"
+  },
+  {
+    "track_id": "metal.00044",
+    "artist_id": -1,
+    "genre": "metal",
+    "genre_idx": 6,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\metal\\metal.00044.wav"
+  },
+  {
+    "track_id": "pop.00000",
+    "artist_id": -1,
+    "genre": "pop",
+    "genre_idx": 7,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\pop\\pop.00000.wav"
+  },
+  {
+    "track_id": "reggae.00042",
+    "artist_id": -1,
+    "genre": "reggae",
+    "genre_idx": 8,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\reggae\\reggae.00042.wav"
+  },
+  {
+    "track_id": "jazz.00063",
+    "artist_id": -1,
+    "genre": "jazz",
+    "genre_idx": 5,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\jazz\\jazz.00063.wav"
+  },
+  {
+    "track_id": "disco.00007",
+    "artist_id": -1,
+    "genre": "disco",
+    "genre_idx": 3,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\disco\\disco.00007.wav"
+  },
+  {
+    "track_id": "reggae.00021",
+    "artist_id": -1,
+    "genre": "reggae",
+    "genre_idx": 8,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\reggae\\reggae.00021.wav"
+  },
+  {
+    "track_id": "reggae.00022",
+    "artist_id": -1,
+    "genre": "reggae",
+    "genre_idx": 8,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\reggae\\reggae.00022.wav"
+  },
+  {
+    "track_id": "blues.00023",
+    "artist_id": -1,
+    "genre": "blues",
+    "genre_idx": 0,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\blues\\blues.00023.wav"
+  },
+  {
+    "track_id": "reggae.00090",
+    "artist_id": -1,
+    "genre": "reggae",
+    "genre_idx": 8,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\reggae\\reggae.00090.wav"
+  },
+  {
+    "track_id": "disco.00097",
+    "artist_id": -1,
+    "genre": "disco",
+    "genre_idx": 3,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\disco\\disco.00097.wav"
+  },
+  {
+    "track_id": "country.00052",
+    "artist_id": -1,
+    "genre": "country",
+    "genre_idx": 2,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\country\\country.00052.wav"
+  },
+  {
+    "track_id": "blues.00063",
+    "artist_id": -1,
+    "genre": "blues",
+    "genre_idx": 0,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\blues\\blues.00063.wav"
+  },
+  {
+    "track_id": "classical.00062",
+    "artist_id": -1,
+    "genre": "classical",
+    "genre_idx": 1,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\classical\\classical.00062.wav"
+  },
+  {
+    "track_id": "jazz.00035",
+    "artist_id": -1,
+    "genre": "jazz",
+    "genre_idx": 5,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\jazz\\jazz.00035.wav"
+  },
+  {
+    "track_id": "blues.00058",
+    "artist_id": -1,
+    "genre": "blues",
+    "genre_idx": 0,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\blues\\blues.00058.wav"
+  },
+  {
+    "track_id": "disco.00052",
+    "artist_id": -1,
+    "genre": "disco",
+    "genre_idx": 3,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\disco\\disco.00052.wav"
+  },
+  {
+    "track_id": "disco.00029",
+    "artist_id": -1,
+    "genre": "disco",
+    "genre_idx": 3,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\disco\\disco.00029.wav"
+  },
+  {
+    "track_id": "country.00035",
+    "artist_id": -1,
+    "genre": "country",
+    "genre_idx": 2,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\country\\country.00035.wav"
+  },
+  {
+    "track_id": "hiphop.00088",
+    "artist_id": -1,
+    "genre": "hiphop",
+    "genre_idx": 4,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\hiphop\\hiphop.00088.wav"
+  },
+  {
+    "track_id": "rock.00035",
+    "artist_id": -1,
+    "genre": "rock",
+    "genre_idx": 9,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\rock\\rock.00035.wav"
+  },
+  {
+    "track_id": "jazz.00057",
+    "artist_id": -1,
+    "genre": "jazz",
+    "genre_idx": 5,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\jazz\\jazz.00057.wav"
+  },
+  {
+    "track_id": "classical.00077",
+    "artist_id": -1,
+    "genre": "classical",
+    "genre_idx": 1,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\classical\\classical.00077.wav"
+  },
+  {
+    "track_id": "metal.00012",
+    "artist_id": -1,
+    "genre": "metal",
+    "genre_idx": 6,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\metal\\metal.00012.wav"
+  },
+  {
+    "track_id": "classical.00099",
+    "artist_id": -1,
+    "genre": "classical",
+    "genre_idx": 1,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\classical\\classical.00099.wav"
+  },
+  {
+    "track_id": "classical.00008",
+    "artist_id": -1,
+    "genre": "classical",
+    "genre_idx": 1,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\classical\\classical.00008.wav"
+  },
+  {
+    "track_id": "disco.00005",
+    "artist_id": -1,
+    "genre": "disco",
+    "genre_idx": 3,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\disco\\disco.00005.wav"
+  },
+  {
+    "track_id": "classical.00051",
+    "artist_id": -1,
+    "genre": "classical",
+    "genre_idx": 1,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\classical\\classical.00051.wav"
+  },
+  {
+    "track_id": "hiphop.00057",
+    "artist_id": -1,
+    "genre": "hiphop",
+    "genre_idx": 4,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\hiphop\\hiphop.00057.wav"
+  },
+  {
+    "track_id": "jazz.00079",
+    "artist_id": -1,
+    "genre": "jazz",
+    "genre_idx": 5,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\jazz\\jazz.00079.wav"
+  },
+  {
+    "track_id": "classical.00040",
+    "artist_id": -1,
+    "genre": "classical",
+    "genre_idx": 1,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\classical\\classical.00040.wav"
+  },
+  {
+    "track_id": "classical.00071",
+    "artist_id": -1,
+    "genre": "classical",
+    "genre_idx": 1,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\classical\\classical.00071.wav"
+  },
+  {
+    "track_id": "jazz.00074",
+    "artist_id": -1,
+    "genre": "jazz",
+    "genre_idx": 5,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\jazz\\jazz.00074.wav"
+  },
+  {
+    "track_id": "pop.00054",
+    "artist_id": -1,
+    "genre": "pop",
+    "genre_idx": 7,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\pop\\pop.00054.wav"
+  },
+  {
+    "track_id": "disco.00087",
+    "artist_id": -1,
+    "genre": "disco",
+    "genre_idx": 3,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\disco\\disco.00087.wav"
+  },
+  {
+    "track_id": "reggae.00024",
+    "artist_id": -1,
+    "genre": "reggae",
+    "genre_idx": 8,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\reggae\\reggae.00024.wav"
+  },
+  {
+    "track_id": "country.00079",
+    "artist_id": -1,
+    "genre": "country",
+    "genre_idx": 2,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\country\\country.00079.wav"
+  },
+  {
+    "track_id": "hiphop.00011",
+    "artist_id": -1,
+    "genre": "hiphop",
+    "genre_idx": 4,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\hiphop\\hiphop.00011.wav"
+  },
+  {
+    "track_id": "rock.00083",
+    "artist_id": -1,
+    "genre": "rock",
+    "genre_idx": 9,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\rock\\rock.00083.wav"
+  },
+  {
+    "track_id": "jazz.00088",
+    "artist_id": -1,
+    "genre": "jazz",
+    "genre_idx": 5,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\jazz\\jazz.00088.wav"
+  },
+  {
+    "track_id": "rock.00061",
+    "artist_id": -1,
+    "genre": "rock",
+    "genre_idx": 9,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\rock\\rock.00061.wav"
+  },
+  {
+    "track_id": "disco.00021",
+    "artist_id": -1,
+    "genre": "disco",
+    "genre_idx": 3,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\disco\\disco.00021.wav"
+  },
+  {
+    "track_id": "hiphop.00090",
+    "artist_id": -1,
+    "genre": "hiphop",
+    "genre_idx": 4,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\hiphop\\hiphop.00090.wav"
+  },
+  {
+    "track_id": "pop.00062",
+    "artist_id": -1,
+    "genre": "pop",
+    "genre_idx": 7,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\pop\\pop.00062.wav"
+  },
+  {
+    "track_id": "hiphop.00012",
+    "artist_id": -1,
+    "genre": "hiphop",
+    "genre_idx": 4,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\hiphop\\hiphop.00012.wav"
+  },
+  {
+    "track_id": "rock.00055",
+    "artist_id": -1,
+    "genre": "rock",
+    "genre_idx": 9,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\rock\\rock.00055.wav"
+  },
+  {
+    "track_id": "jazz.00072",
+    "artist_id": -1,
+    "genre": "jazz",
+    "genre_idx": 5,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\jazz\\jazz.00072.wav"
+  },
+  {
+    "track_id": "classical.00014",
+    "artist_id": -1,
+    "genre": "classical",
+    "genre_idx": 1,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\classical\\classical.00014.wav"
+  },
+  {
+    "track_id": "country.00093",
+    "artist_id": -1,
+    "genre": "country",
+    "genre_idx": 2,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\country\\country.00093.wav"
+  },
+  {
+    "track_id": "metal.00032",
+    "artist_id": -1,
+    "genre": "metal",
+    "genre_idx": 6,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\metal\\metal.00032.wav"
+  },
+  {
+    "track_id": "hiphop.00066",
+    "artist_id": -1,
+    "genre": "hiphop",
+    "genre_idx": 4,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\hiphop\\hiphop.00066.wav"
+  },
+  {
+    "track_id": "disco.00027",
+    "artist_id": -1,
+    "genre": "disco",
+    "genre_idx": 3,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\disco\\disco.00027.wav"
+  },
+  {
+    "track_id": "hiphop.00061",
+    "artist_id": -1,
+    "genre": "hiphop",
+    "genre_idx": 4,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\hiphop\\hiphop.00061.wav"
+  },
+  {
+    "track_id": "blues.00059",
+    "artist_id": -1,
+    "genre": "blues",
+    "genre_idx": 0,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\blues\\blues.00059.wav"
+  },
+  {
+    "track_id": "reggae.00094",
+    "artist_id": -1,
+    "genre": "reggae",
+    "genre_idx": 8,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\reggae\\reggae.00094.wav"
+  },
+  {
+    "track_id": "metal.00095",
+    "artist_id": -1,
+    "genre": "metal",
+    "genre_idx": 6,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\metal\\metal.00095.wav"
+  },
+  {
+    "track_id": "classical.00026",
+    "artist_id": -1,
+    "genre": "classical",
+    "genre_idx": 1,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\classical\\classical.00026.wav"
+  },
+  {
+    "track_id": "blues.00029",
+    "artist_id": -1,
+    "genre": "blues",
+    "genre_idx": 0,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\blues\\blues.00029.wav"
+  },
+  {
+    "track_id": "jazz.00006",
+    "artist_id": -1,
+    "genre": "jazz",
+    "genre_idx": 5,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\jazz\\jazz.00006.wav"
+  },
+  {
+    "track_id": "jazz.00016",
+    "artist_id": -1,
+    "genre": "jazz",
+    "genre_idx": 5,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\jazz\\jazz.00016.wav"
+  },
+  {
+    "track_id": "jazz.00078",
+    "artist_id": -1,
+    "genre": "jazz",
+    "genre_idx": 5,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\jazz\\jazz.00078.wav"
+  },
+  {
+    "track_id": "pop.00052",
+    "artist_id": -1,
+    "genre": "pop",
+    "genre_idx": 7,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\pop\\pop.00052.wav"
+  },
+  {
+    "track_id": "reggae.00079",
+    "artist_id": -1,
+    "genre": "reggae",
+    "genre_idx": 8,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\reggae\\reggae.00079.wav"
+  },
+  {
+    "track_id": "disco.00026",
+    "artist_id": -1,
+    "genre": "disco",
+    "genre_idx": 3,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\disco\\disco.00026.wav"
+  },
+  {
+    "track_id": "metal.00053",
+    "artist_id": -1,
+    "genre": "metal",
+    "genre_idx": 6,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\metal\\metal.00053.wav"
+  },
+  {
+    "track_id": "pop.00004",
+    "artist_id": -1,
+    "genre": "pop",
+    "genre_idx": 7,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\pop\\pop.00004.wav"
+  },
+  {
+    "track_id": "blues.00046",
+    "artist_id": -1,
+    "genre": "blues",
+    "genre_idx": 0,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\blues\\blues.00046.wav"
+  },
+  {
+    "track_id": "rock.00074",
+    "artist_id": -1,
+    "genre": "rock",
+    "genre_idx": 9,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\rock\\rock.00074.wav"
+  },
+  {
+    "track_id": "country.00023",
+    "artist_id": -1,
+    "genre": "country",
+    "genre_idx": 2,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\country\\country.00023.wav"
+  },
+  {
+    "track_id": "pop.00010",
+    "artist_id": -1,
+    "genre": "pop",
+    "genre_idx": 7,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\pop\\pop.00010.wav"
+  },
+  {
+    "track_id": "hiphop.00000",
+    "artist_id": -1,
+    "genre": "hiphop",
+    "genre_idx": 4,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\hiphop\\hiphop.00000.wav"
+  },
+  {
+    "track_id": "country.00031",
+    "artist_id": -1,
+    "genre": "country",
+    "genre_idx": 2,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\country\\country.00031.wav"
+  },
+  {
+    "track_id": "pop.00099",
+    "artist_id": -1,
+    "genre": "pop",
+    "genre_idx": 7,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\pop\\pop.00099.wav"
+  },
+  {
+    "track_id": "hiphop.00051",
+    "artist_id": -1,
+    "genre": "hiphop",
+    "genre_idx": 4,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\hiphop\\hiphop.00051.wav"
+  },
+  {
+    "track_id": "hiphop.00016",
+    "artist_id": -1,
+    "genre": "hiphop",
+    "genre_idx": 4,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\hiphop\\hiphop.00016.wav"
+  },
+  {
+    "track_id": "reggae.00003",
+    "artist_id": -1,
+    "genre": "reggae",
+    "genre_idx": 8,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\reggae\\reggae.00003.wav"
+  },
+  {
+    "track_id": "rock.00005",
+    "artist_id": -1,
+    "genre": "rock",
+    "genre_idx": 9,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\rock\\rock.00005.wav"
+  },
+  {
+    "track_id": "country.00001",
+    "artist_id": -1,
+    "genre": "country",
+    "genre_idx": 2,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\country\\country.00001.wav"
+  },
+  {
+    "track_id": "disco.00092",
+    "artist_id": -1,
+    "genre": "disco",
+    "genre_idx": 3,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\disco\\disco.00092.wav"
+  },
+  {
+    "track_id": "hiphop.00021",
+    "artist_id": -1,
+    "genre": "hiphop",
+    "genre_idx": 4,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\hiphop\\hiphop.00021.wav"
+  },
+  {
+    "track_id": "pop.00005",
+    "artist_id": -1,
+    "genre": "pop",
+    "genre_idx": 7,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\pop\\pop.00005.wav"
+  },
+  {
+    "track_id": "rock.00063",
+    "artist_id": -1,
+    "genre": "rock",
+    "genre_idx": 9,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\rock\\rock.00063.wav"
+  },
+  {
+    "track_id": "country.00089",
+    "artist_id": -1,
+    "genre": "country",
+    "genre_idx": 2,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\country\\country.00089.wav"
+  },
+  {
+    "track_id": "disco.00060",
+    "artist_id": -1,
+    "genre": "disco",
+    "genre_idx": 3,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\disco\\disco.00060.wav"
+  },
+  {
+    "track_id": "blues.00087",
+    "artist_id": -1,
+    "genre": "blues",
+    "genre_idx": 0,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\blues\\blues.00087.wav"
+  },
+  {
+    "track_id": "reggae.00081",
+    "artist_id": -1,
+    "genre": "reggae",
+    "genre_idx": 8,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\reggae\\reggae.00081.wav"
+  },
+  {
+    "track_id": "jazz.00033",
+    "artist_id": -1,
+    "genre": "jazz",
+    "genre_idx": 5,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\jazz\\jazz.00033.wav"
+  },
+  {
+    "track_id": "metal.00055",
+    "artist_id": -1,
+    "genre": "metal",
+    "genre_idx": 6,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\metal\\metal.00055.wav"
+  },
+  {
+    "track_id": "country.00083",
+    "artist_id": -1,
+    "genre": "country",
+    "genre_idx": 2,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\country\\country.00083.wav"
+  },
+  {
+    "track_id": "metal.00097",
+    "artist_id": -1,
+    "genre": "metal",
+    "genre_idx": 6,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\metal\\metal.00097.wav"
+  },
+  {
+    "track_id": "pop.00026",
+    "artist_id": -1,
+    "genre": "pop",
+    "genre_idx": 7,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\pop\\pop.00026.wav"
+  },
+  {
+    "track_id": "blues.00095",
+    "artist_id": -1,
+    "genre": "blues",
+    "genre_idx": 0,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\blues\\blues.00095.wav"
+  },
+  {
+    "track_id": "pop.00085",
+    "artist_id": -1,
+    "genre": "pop",
+    "genre_idx": 7,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\pop\\pop.00085.wav"
+  },
+  {
+    "track_id": "jazz.00023",
+    "artist_id": -1,
+    "genre": "jazz",
+    "genre_idx": 5,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\jazz\\jazz.00023.wav"
+  },
+  {
+    "track_id": "classical.00011",
+    "artist_id": -1,
+    "genre": "classical",
+    "genre_idx": 1,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\classical\\classical.00011.wav"
+  },
+  {
+    "track_id": "classical.00041",
+    "artist_id": -1,
+    "genre": "classical",
+    "genre_idx": 1,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\classical\\classical.00041.wav"
+  },
+  {
+    "track_id": "blues.00074",
+    "artist_id": -1,
+    "genre": "blues",
+    "genre_idx": 0,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\blues\\blues.00074.wav"
+  },
+  {
+    "track_id": "rock.00095",
+    "artist_id": -1,
+    "genre": "rock",
+    "genre_idx": 9,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\rock\\rock.00095.wav"
+  },
+  {
+    "track_id": "blues.00037",
+    "artist_id": -1,
+    "genre": "blues",
+    "genre_idx": 0,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\blues\\blues.00037.wav"
+  },
+  {
+    "track_id": "metal.00089",
+    "artist_id": -1,
+    "genre": "metal",
+    "genre_idx": 6,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\metal\\metal.00089.wav"
+  },
+  {
+    "track_id": "country.00076",
+    "artist_id": -1,
+    "genre": "country",
+    "genre_idx": 2,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\country\\country.00076.wav"
+  },
+  {
+    "track_id": "rock.00065",
+    "artist_id": -1,
+    "genre": "rock",
+    "genre_idx": 9,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\rock\\rock.00065.wav"
+  },
+  {
+    "track_id": "rock.00020",
+    "artist_id": -1,
+    "genre": "rock",
+    "genre_idx": 9,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\rock\\rock.00020.wav"
+  },
+  {
+    "track_id": "blues.00097",
+    "artist_id": -1,
+    "genre": "blues",
+    "genre_idx": 0,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\blues\\blues.00097.wav"
+  },
+  {
+    "track_id": "classical.00061",
+    "artist_id": -1,
+    "genre": "classical",
+    "genre_idx": 1,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\classical\\classical.00061.wav"
+  },
+  {
+    "track_id": "metal.00057",
+    "artist_id": -1,
+    "genre": "metal",
+    "genre_idx": 6,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\metal\\metal.00057.wav"
+  },
+  {
+    "track_id": "country.00037",
+    "artist_id": -1,
+    "genre": "country",
+    "genre_idx": 2,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\country\\country.00037.wav"
+  },
+  {
+    "track_id": "metal.00086",
+    "artist_id": -1,
+    "genre": "metal",
+    "genre_idx": 6,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\metal\\metal.00086.wav"
+  },
+  {
+    "track_id": "country.00016",
+    "artist_id": -1,
+    "genre": "country",
+    "genre_idx": 2,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\country\\country.00016.wav"
+  },
+  {
+    "track_id": "jazz.00022",
+    "artist_id": -1,
+    "genre": "jazz",
+    "genre_idx": 5,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\jazz\\jazz.00022.wav"
+  },
+  {
+    "track_id": "rock.00069",
+    "artist_id": -1,
+    "genre": "rock",
+    "genre_idx": 9,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\rock\\rock.00069.wav"
+  },
+  {
+    "track_id": "metal.00088",
+    "artist_id": -1,
+    "genre": "metal",
+    "genre_idx": 6,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\metal\\metal.00088.wav"
+  },
+  {
+    "track_id": "disco.00043",
+    "artist_id": -1,
+    "genre": "disco",
+    "genre_idx": 3,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\disco\\disco.00043.wav"
+  },
+  {
+    "track_id": "hiphop.00039",
+    "artist_id": -1,
+    "genre": "hiphop",
+    "genre_idx": 4,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\hiphop\\hiphop.00039.wav"
+  },
+  {
+    "track_id": "classical.00022",
+    "artist_id": -1,
+    "genre": "classical",
+    "genre_idx": 1,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\classical\\classical.00022.wav"
+  },
+  {
+    "track_id": "jazz.00081",
+    "artist_id": -1,
+    "genre": "jazz",
+    "genre_idx": 5,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\jazz\\jazz.00081.wav"
+  },
+  {
+    "track_id": "rock.00099",
+    "artist_id": -1,
+    "genre": "rock",
+    "genre_idx": 9,
+    "file_path": "Datasets\\gtzan_kaggle\\Data\\genres_original\\rock\\rock.00099.wav"
+  }
+]

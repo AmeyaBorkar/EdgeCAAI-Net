@@ -1,0 +1,44 @@
+# GTZAN Experiment Configuration
+# Inherits from default.yaml, overrides dataset-specific settings
+
+defaults: default.yaml
+
+experiment:
+  name: gtzan
+  description: "GTZAN - track-disjoint split (legacy benchmark)"
+
+dataset:
+  name: gtzan
+  audio_dir: Datasets/gtzan_kaggle/Data/genres_original
+  num_genres: 10
+  genre_labels:
+    - blues
+    - classical
+    - country
+    - disco
+    - hiphop
+    - jazz
+    - metal
+    - pop
+    - reggae
+    - rock
+  split_type: track_disjoint
+  split_dir: data/splits
+  split_files:
+    train: gtzan_track_disjoint_train.json
+    val: gtzan_track_disjoint_val.json
+    test: gtzan_track_disjoint_test.json
+  processed_dir: data/processed/gtzan
+
+# Artist invariance disabled (no artist metadata in GTZAN)
+artist_invariance:
+  method: none
+
+# GTZAN-specific overrides
+training:
+  epochs: 100
+  early_stopping_patience: 15
+
+results:
+  output_dir: results/gtzan
+  checkpoint_dir: results/gtzan/checkpoints

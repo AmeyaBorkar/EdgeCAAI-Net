@@ -1,0 +1,34 @@
+defaults: ../default.yaml
+
+experiment:
+  name: ablation_exits_budget
+  description: "Ablation: EdgeCAAI-Net with early exits + budget loss, no artist invariance"
+
+exits:
+  enabled: true
+  positions: [2, 4, 6]
+  weights: [0.2, 0.3, 0.5]
+
+budget:
+  enabled: true
+  lambda_budget: 0.02
+
+artist_invariance:
+  method: none
+
+dataset:
+  name: fma_small
+  audio_dir: Datasets/fma/fma_small
+  metadata_dir: Datasets/fma/fma_metadata
+  num_genres: 8
+  split_type: artist_disjoint
+  split_dir: data/splits
+  split_files:
+    train: artist_disjoint_train.json
+    val: artist_disjoint_val.json
+    test: artist_disjoint_test.json
+  processed_dir: data/processed/fma_artist
+
+results:
+  output_dir: results/ablations/exits_budget
+  checkpoint_dir: results/ablations/exits_budget/checkpoints

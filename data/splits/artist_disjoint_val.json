@@ -1,0 +1,8423 @@
+[
+  {
+    "track_id": 615,
+    "artist_id": 126,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\000\\000615.mp3"
+  },
+  {
+    "track_id": 694,
+    "artist_id": 138,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\000\\000694.mp3"
+  },
+  {
+    "track_id": 695,
+    "artist_id": 138,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\000\\000695.mp3"
+  },
+  {
+    "track_id": 821,
+    "artist_id": 155,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\000\\000821.mp3"
+  },
+  {
+    "track_id": 822,
+    "artist_id": 155,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\000\\000822.mp3"
+  },
+  {
+    "track_id": 853,
+    "artist_id": 162,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\000\\000853.mp3"
+  },
+  {
+    "track_id": 1083,
+    "artist_id": 200,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\001\\001083.mp3"
+  },
+  {
+    "track_id": 1482,
+    "artist_id": 249,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\001\\001482.mp3"
+  },
+  {
+    "track_id": 1663,
+    "artist_id": 271,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\001\\001663.mp3"
+  },
+  {
+    "track_id": 1666,
+    "artist_id": 271,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\001\\001666.mp3"
+  },
+  {
+    "track_id": 2099,
+    "artist_id": 348,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\002\\002099.mp3"
+  },
+  {
+    "track_id": 3880,
+    "artist_id": 826,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\003\\003880.mp3"
+  },
+  {
+    "track_id": 4066,
+    "artist_id": 1374,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\004\\004066.mp3"
+  },
+  {
+    "track_id": 4067,
+    "artist_id": 1374,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\004\\004067.mp3"
+  },
+  {
+    "track_id": 4068,
+    "artist_id": 1374,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\004\\004068.mp3"
+  },
+  {
+    "track_id": 4069,
+    "artist_id": 1374,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\004\\004069.mp3"
+  },
+  {
+    "track_id": 4846,
+    "artist_id": 911,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\004\\004846.mp3"
+  },
+  {
+    "track_id": 4848,
+    "artist_id": 911,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\004\\004848.mp3"
+  },
+  {
+    "track_id": 4849,
+    "artist_id": 911,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\004\\004849.mp3"
+  },
+  {
+    "track_id": 5006,
+    "artist_id": 1075,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\005\\005006.mp3"
+  },
+  {
+    "track_id": 5376,
+    "artist_id": 826,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\005\\005376.mp3"
+  },
+  {
+    "track_id": 5381,
+    "artist_id": 826,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\005\\005381.mp3"
+  },
+  {
+    "track_id": 5521,
+    "artist_id": 1764,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\005\\005521.mp3"
+  },
+  {
+    "track_id": 5940,
+    "artist_id": 1797,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\005\\005940.mp3"
+  },
+  {
+    "track_id": 6461,
+    "artist_id": 458,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\006\\006461.mp3"
+  },
+  {
+    "track_id": 6463,
+    "artist_id": 458,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\006\\006463.mp3"
+  },
+  {
+    "track_id": 6467,
+    "artist_id": 458,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\006\\006467.mp3"
+  },
+  {
+    "track_id": 6762,
+    "artist_id": 458,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\006\\006762.mp3"
+  },
+  {
+    "track_id": 6802,
+    "artist_id": 1729,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\006\\006802.mp3"
+  },
+  {
+    "track_id": 6803,
+    "artist_id": 1729,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\006\\006803.mp3"
+  },
+  {
+    "track_id": 7495,
+    "artist_id": 853,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\007\\007495.mp3"
+  },
+  {
+    "track_id": 8345,
+    "artist_id": 39,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\008\\008345.mp3"
+  },
+  {
+    "track_id": 9307,
+    "artist_id": 2214,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\009\\009307.mp3"
+  },
+  {
+    "track_id": 10186,
+    "artist_id": 2419,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\010\\010186.mp3"
+  },
+  {
+    "track_id": 10381,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\010\\010381.mp3"
+  },
+  {
+    "track_id": 10382,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\010\\010382.mp3"
+  },
+  {
+    "track_id": 10383,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\010\\010383.mp3"
+  },
+  {
+    "track_id": 10384,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\010\\010384.mp3"
+  },
+  {
+    "track_id": 10385,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\010\\010385.mp3"
+  },
+  {
+    "track_id": 10386,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\010\\010386.mp3"
+  },
+  {
+    "track_id": 10387,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\010\\010387.mp3"
+  },
+  {
+    "track_id": 10388,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\010\\010388.mp3"
+  },
+  {
+    "track_id": 10389,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\010\\010389.mp3"
+  },
+  {
+    "track_id": 10438,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\010\\010438.mp3"
+  },
+  {
+    "track_id": 10439,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\010\\010439.mp3"
+  },
+  {
+    "track_id": 10440,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\010\\010440.mp3"
+  },
+  {
+    "track_id": 10441,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\010\\010441.mp3"
+  },
+  {
+    "track_id": 10442,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\010\\010442.mp3"
+  },
+  {
+    "track_id": 10443,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\010\\010443.mp3"
+  },
+  {
+    "track_id": 10444,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\010\\010444.mp3"
+  },
+  {
+    "track_id": 10447,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\010\\010447.mp3"
+  },
+  {
+    "track_id": 10480,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\010\\010480.mp3"
+  },
+  {
+    "track_id": 10481,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\010\\010481.mp3"
+  },
+  {
+    "track_id": 10485,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\010\\010485.mp3"
+  },
+  {
+    "track_id": 10678,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\010\\010678.mp3"
+  },
+  {
+    "track_id": 10679,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\010\\010679.mp3"
+  },
+  {
+    "track_id": 10682,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\010\\010682.mp3"
+  },
+  {
+    "track_id": 10684,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\010\\010684.mp3"
+  },
+  {
+    "track_id": 10992,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\010\\010992.mp3"
+  },
+  {
+    "track_id": 10993,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\010\\010993.mp3"
+  },
+  {
+    "track_id": 11059,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\011\\011059.mp3"
+  },
+  {
+    "track_id": 11206,
+    "artist_id": 2888,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\011\\011206.mp3"
+  },
+  {
+    "track_id": 11298,
+    "artist_id": 2919,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\011\\011298.mp3"
+  },
+  {
+    "track_id": 11299,
+    "artist_id": 2920,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\011\\011299.mp3"
+  },
+  {
+    "track_id": 11503,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\011\\011503.mp3"
+  },
+  {
+    "track_id": 11504,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\011\\011504.mp3"
+  },
+  {
+    "track_id": 11505,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\011\\011505.mp3"
+  },
+  {
+    "track_id": 11508,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\011\\011508.mp3"
+  },
+  {
+    "track_id": 11916,
+    "artist_id": 3070,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\011\\011916.mp3"
+  },
+  {
+    "track_id": 11917,
+    "artist_id": 3070,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\011\\011917.mp3"
+  },
+  {
+    "track_id": 11918,
+    "artist_id": 3070,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\011\\011918.mp3"
+  },
+  {
+    "track_id": 11919,
+    "artist_id": 3070,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\011\\011919.mp3"
+  },
+  {
+    "track_id": 11920,
+    "artist_id": 3070,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\011\\011920.mp3"
+  },
+  {
+    "track_id": 11921,
+    "artist_id": 3070,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\011\\011921.mp3"
+  },
+  {
+    "track_id": 11922,
+    "artist_id": 3070,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\011\\011922.mp3"
+  },
+  {
+    "track_id": 11946,
+    "artist_id": 2181,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\011\\011946.mp3"
+  },
+  {
+    "track_id": 12045,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\012\\012045.mp3"
+  },
+  {
+    "track_id": 12046,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\012\\012046.mp3"
+  },
+  {
+    "track_id": 12047,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\012\\012047.mp3"
+  },
+  {
+    "track_id": 12048,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\012\\012048.mp3"
+  },
+  {
+    "track_id": 12049,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\012\\012049.mp3"
+  },
+  {
+    "track_id": 12050,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\012\\012050.mp3"
+  },
+  {
+    "track_id": 12051,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\012\\012051.mp3"
+  },
+  {
+    "track_id": 12052,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\012\\012052.mp3"
+  },
+  {
+    "track_id": 12053,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\012\\012053.mp3"
+  },
+  {
+    "track_id": 12058,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\012\\012058.mp3"
+  },
+  {
+    "track_id": 12059,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\012\\012059.mp3"
+  },
+  {
+    "track_id": 12060,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\012\\012060.mp3"
+  },
+  {
+    "track_id": 12061,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\012\\012061.mp3"
+  },
+  {
+    "track_id": 12062,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\012\\012062.mp3"
+  },
+  {
+    "track_id": 12064,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\012\\012064.mp3"
+  },
+  {
+    "track_id": 12065,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\012\\012065.mp3"
+  },
+  {
+    "track_id": 12066,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\012\\012066.mp3"
+  },
+  {
+    "track_id": 12067,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\012\\012067.mp3"
+  },
+  {
+    "track_id": 12173,
+    "artist_id": 3216,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\012\\012173.mp3"
+  },
+  {
+    "track_id": 12481,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\012\\012481.mp3"
+  },
+  {
+    "track_id": 12482,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\012\\012482.mp3"
+  },
+  {
+    "track_id": 12484,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\012\\012484.mp3"
+  },
+  {
+    "track_id": 12485,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\012\\012485.mp3"
+  },
+  {
+    "track_id": 12486,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\012\\012486.mp3"
+  },
+  {
+    "track_id": 12487,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\012\\012487.mp3"
+  },
+  {
+    "track_id": 12488,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\012\\012488.mp3"
+  },
+  {
+    "track_id": 12489,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\012\\012489.mp3"
+  },
+  {
+    "track_id": 12490,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\012\\012490.mp3"
+  },
+  {
+    "track_id": 12508,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\012\\012508.mp3"
+  },
+  {
+    "track_id": 12513,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\012\\012513.mp3"
+  },
+  {
+    "track_id": 12514,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\012\\012514.mp3"
+  },
+  {
+    "track_id": 13668,
+    "artist_id": 3738,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\013\\013668.mp3"
+  },
+  {
+    "track_id": 13735,
+    "artist_id": 3770,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\013\\013735.mp3"
+  },
+  {
+    "track_id": 13767,
+    "artist_id": 3773,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\013\\013767.mp3"
+  },
+  {
+    "track_id": 13768,
+    "artist_id": 3773,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\013\\013768.mp3"
+  },
+  {
+    "track_id": 14208,
+    "artist_id": 3924,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\014\\014208.mp3"
+  },
+  {
+    "track_id": 14391,
+    "artist_id": 3985,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\014\\014391.mp3"
+  },
+  {
+    "track_id": 16158,
+    "artist_id": 4450,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\016\\016158.mp3"
+  },
+  {
+    "track_id": 16895,
+    "artist_id": 4649,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\016\\016895.mp3"
+  },
+  {
+    "track_id": 16994,
+    "artist_id": 4656,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\016\\016994.mp3"
+  },
+  {
+    "track_id": 16995,
+    "artist_id": 4656,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\016\\016995.mp3"
+  },
+  {
+    "track_id": 16997,
+    "artist_id": 4656,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\016\\016997.mp3"
+  },
+  {
+    "track_id": 17132,
+    "artist_id": 1516,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\017\\017132.mp3"
+  },
+  {
+    "track_id": 19441,
+    "artist_id": 4450,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\019\\019441.mp3"
+  },
+  {
+    "track_id": 21085,
+    "artist_id": 5520,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\021\\021085.mp3"
+  },
+  {
+    "track_id": 21167,
+    "artist_id": 5552,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\021\\021167.mp3"
+  },
+  {
+    "track_id": 21404,
+    "artist_id": 5640,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\021\\021404.mp3"
+  },
+  {
+    "track_id": 21409,
+    "artist_id": 5644,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\021\\021409.mp3"
+  },
+  {
+    "track_id": 22150,
+    "artist_id": 2629,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\022\\022150.mp3"
+  },
+  {
+    "track_id": 23372,
+    "artist_id": 6093,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\023\\023372.mp3"
+  },
+  {
+    "track_id": 24362,
+    "artist_id": 6251,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\024\\024362.mp3"
+  },
+  {
+    "track_id": 24363,
+    "artist_id": 6251,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\024\\024363.mp3"
+  },
+  {
+    "track_id": 24364,
+    "artist_id": 6251,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\024\\024364.mp3"
+  },
+  {
+    "track_id": 24365,
+    "artist_id": 6251,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\024\\024365.mp3"
+  },
+  {
+    "track_id": 24366,
+    "artist_id": 6251,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\024\\024366.mp3"
+  },
+  {
+    "track_id": 24367,
+    "artist_id": 6251,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\024\\024367.mp3"
+  },
+  {
+    "track_id": 24368,
+    "artist_id": 6251,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\024\\024368.mp3"
+  },
+  {
+    "track_id": 24369,
+    "artist_id": 6251,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\024\\024369.mp3"
+  },
+  {
+    "track_id": 24370,
+    "artist_id": 6251,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\024\\024370.mp3"
+  },
+  {
+    "track_id": 24371,
+    "artist_id": 6251,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\024\\024371.mp3"
+  },
+  {
+    "track_id": 24717,
+    "artist_id": 6348,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\024\\024717.mp3"
+  },
+  {
+    "track_id": 24720,
+    "artist_id": 6348,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\024\\024720.mp3"
+  },
+  {
+    "track_id": 24842,
+    "artist_id": 1162,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\024\\024842.mp3"
+  },
+  {
+    "track_id": 25668,
+    "artist_id": 5303,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\025\\025668.mp3"
+  },
+  {
+    "track_id": 25669,
+    "artist_id": 5303,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\025\\025669.mp3"
+  },
+  {
+    "track_id": 25670,
+    "artist_id": 5303,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\025\\025670.mp3"
+  },
+  {
+    "track_id": 26298,
+    "artist_id": 6484,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\026\\026298.mp3"
+  },
+  {
+    "track_id": 26301,
+    "artist_id": 6484,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\026\\026301.mp3"
+  },
+  {
+    "track_id": 26302,
+    "artist_id": 6484,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\026\\026302.mp3"
+  },
+  {
+    "track_id": 26307,
+    "artist_id": 6484,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\026\\026307.mp3"
+  },
+  {
+    "track_id": 26322,
+    "artist_id": 6484,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\026\\026322.mp3"
+  },
+  {
+    "track_id": 27547,
+    "artist_id": 6957,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\027\\027547.mp3"
+  },
+  {
+    "track_id": 27548,
+    "artist_id": 6957,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\027\\027548.mp3"
+  },
+  {
+    "track_id": 27549,
+    "artist_id": 6957,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\027\\027549.mp3"
+  },
+  {
+    "track_id": 27550,
+    "artist_id": 6957,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\027\\027550.mp3"
+  },
+  {
+    "track_id": 27551,
+    "artist_id": 6957,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\027\\027551.mp3"
+  },
+  {
+    "track_id": 27552,
+    "artist_id": 6957,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\027\\027552.mp3"
+  },
+  {
+    "track_id": 27804,
+    "artist_id": 7016,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\027\\027804.mp3"
+  },
+  {
+    "track_id": 28375,
+    "artist_id": 7135,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\028\\028375.mp3"
+  },
+  {
+    "track_id": 28376,
+    "artist_id": 7135,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\028\\028376.mp3"
+  },
+  {
+    "track_id": 29602,
+    "artist_id": 7371,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\029\\029602.mp3"
+  },
+  {
+    "track_id": 30636,
+    "artist_id": 868,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\030\\030636.mp3"
+  },
+  {
+    "track_id": 31040,
+    "artist_id": 7688,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\031\\031040.mp3"
+  },
+  {
+    "track_id": 31041,
+    "artist_id": 7688,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\031\\031041.mp3"
+  },
+  {
+    "track_id": 31042,
+    "artist_id": 7688,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\031\\031042.mp3"
+  },
+  {
+    "track_id": 31043,
+    "artist_id": 7688,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\031\\031043.mp3"
+  },
+  {
+    "track_id": 31044,
+    "artist_id": 7688,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\031\\031044.mp3"
+  },
+  {
+    "track_id": 32075,
+    "artist_id": 7496,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\032\\032075.mp3"
+  },
+  {
+    "track_id": 32081,
+    "artist_id": 7496,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\032\\032081.mp3"
+  },
+  {
+    "track_id": 32759,
+    "artist_id": 8023,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\032\\032759.mp3"
+  },
+  {
+    "track_id": 32882,
+    "artist_id": 6422,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\032\\032882.mp3"
+  },
+  {
+    "track_id": 33067,
+    "artist_id": 8100,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\033\\033067.mp3"
+  },
+  {
+    "track_id": 33068,
+    "artist_id": 8100,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\033\\033068.mp3"
+  },
+  {
+    "track_id": 33069,
+    "artist_id": 8100,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\033\\033069.mp3"
+  },
+  {
+    "track_id": 33070,
+    "artist_id": 8100,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\033\\033070.mp3"
+  },
+  {
+    "track_id": 33071,
+    "artist_id": 8100,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\033\\033071.mp3"
+  },
+  {
+    "track_id": 33072,
+    "artist_id": 8100,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\033\\033072.mp3"
+  },
+  {
+    "track_id": 33123,
+    "artist_id": 8064,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\033\\033123.mp3"
+  },
+  {
+    "track_id": 33426,
+    "artist_id": 8257,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\033\\033426.mp3"
+  },
+  {
+    "track_id": 34511,
+    "artist_id": 8472,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\034\\034511.mp3"
+  },
+  {
+    "track_id": 34994,
+    "artist_id": 8506,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\034\\034994.mp3"
+  },
+  {
+    "track_id": 35443,
+    "artist_id": 8610,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\035\\035443.mp3"
+  },
+  {
+    "track_id": 35462,
+    "artist_id": 8014,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\035\\035462.mp3"
+  },
+  {
+    "track_id": 36143,
+    "artist_id": 8666,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\036\\036143.mp3"
+  },
+  {
+    "track_id": 36560,
+    "artist_id": 8728,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\036\\036560.mp3"
+  },
+  {
+    "track_id": 36659,
+    "artist_id": 8760,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\036\\036659.mp3"
+  },
+  {
+    "track_id": 37147,
+    "artist_id": 8895,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\037\\037147.mp3"
+  },
+  {
+    "track_id": 37416,
+    "artist_id": 8972,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\037\\037416.mp3"
+  },
+  {
+    "track_id": 37417,
+    "artist_id": 8972,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\037\\037417.mp3"
+  },
+  {
+    "track_id": 37423,
+    "artist_id": 8972,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\037\\037423.mp3"
+  },
+  {
+    "track_id": 37592,
+    "artist_id": 9000,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\037\\037592.mp3"
+  },
+  {
+    "track_id": 37725,
+    "artist_id": 453,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\037\\037725.mp3"
+  },
+  {
+    "track_id": 37727,
+    "artist_id": 453,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\037\\037727.mp3"
+  },
+  {
+    "track_id": 37730,
+    "artist_id": 453,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\037\\037730.mp3"
+  },
+  {
+    "track_id": 37731,
+    "artist_id": 453,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\037\\037731.mp3"
+  },
+  {
+    "track_id": 37859,
+    "artist_id": 9056,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\037\\037859.mp3"
+  },
+  {
+    "track_id": 38361,
+    "artist_id": 9172,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\038\\038361.mp3"
+  },
+  {
+    "track_id": 38362,
+    "artist_id": 9172,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\038\\038362.mp3"
+  },
+  {
+    "track_id": 38363,
+    "artist_id": 9172,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\038\\038363.mp3"
+  },
+  {
+    "track_id": 38557,
+    "artist_id": 9204,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\038\\038557.mp3"
+  },
+  {
+    "track_id": 38560,
+    "artist_id": 9204,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\038\\038560.mp3"
+  },
+  {
+    "track_id": 38964,
+    "artist_id": 9291,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\038\\038964.mp3"
+  },
+  {
+    "track_id": 38965,
+    "artist_id": 9291,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\038\\038965.mp3"
+  },
+  {
+    "track_id": 38966,
+    "artist_id": 9291,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\038\\038966.mp3"
+  },
+  {
+    "track_id": 38967,
+    "artist_id": 9291,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\038\\038967.mp3"
+  },
+  {
+    "track_id": 39359,
+    "artist_id": 9380,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\039\\039359.mp3"
+  },
+  {
+    "track_id": 40139,
+    "artist_id": 9417,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\040\\040139.mp3"
+  },
+  {
+    "track_id": 40141,
+    "artist_id": 9417,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\040\\040141.mp3"
+  },
+  {
+    "track_id": 40229,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\040\\040229.mp3"
+  },
+  {
+    "track_id": 40230,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\040\\040230.mp3"
+  },
+  {
+    "track_id": 40231,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\040\\040231.mp3"
+  },
+  {
+    "track_id": 40232,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\040\\040232.mp3"
+  },
+  {
+    "track_id": 40233,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\040\\040233.mp3"
+  },
+  {
+    "track_id": 40234,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\040\\040234.mp3"
+  },
+  {
+    "track_id": 40235,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\040\\040235.mp3"
+  },
+  {
+    "track_id": 40236,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\040\\040236.mp3"
+  },
+  {
+    "track_id": 40237,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\040\\040237.mp3"
+  },
+  {
+    "track_id": 40238,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\040\\040238.mp3"
+  },
+  {
+    "track_id": 40239,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\040\\040239.mp3"
+  },
+  {
+    "track_id": 40240,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\040\\040240.mp3"
+  },
+  {
+    "track_id": 40241,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\040\\040241.mp3"
+  },
+  {
+    "track_id": 40242,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\040\\040242.mp3"
+  },
+  {
+    "track_id": 40243,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\040\\040243.mp3"
+  },
+  {
+    "track_id": 40244,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\040\\040244.mp3"
+  },
+  {
+    "track_id": 40245,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\040\\040245.mp3"
+  },
+  {
+    "track_id": 40938,
+    "artist_id": 5905,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\040\\040938.mp3"
+  },
+  {
+    "track_id": 40940,
+    "artist_id": 5905,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\040\\040940.mp3"
+  },
+  {
+    "track_id": 41019,
+    "artist_id": 9628,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\041\\041019.mp3"
+  },
+  {
+    "track_id": 42014,
+    "artist_id": 9916,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\042\\042014.mp3"
+  },
+  {
+    "track_id": 42030,
+    "artist_id": 9945,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\042\\042030.mp3"
+  },
+  {
+    "track_id": 42031,
+    "artist_id": 9946,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\042\\042031.mp3"
+  },
+  {
+    "track_id": 42046,
+    "artist_id": 9948,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\042\\042046.mp3"
+  },
+  {
+    "track_id": 42129,
+    "artist_id": 9957,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\042\\042129.mp3"
+  },
+  {
+    "track_id": 42135,
+    "artist_id": 9957,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\042\\042135.mp3"
+  },
+  {
+    "track_id": 42138,
+    "artist_id": 9957,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\042\\042138.mp3"
+  },
+  {
+    "track_id": 42139,
+    "artist_id": 9957,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\042\\042139.mp3"
+  },
+  {
+    "track_id": 42141,
+    "artist_id": 9957,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\042\\042141.mp3"
+  },
+  {
+    "track_id": 42146,
+    "artist_id": 9957,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\042\\042146.mp3"
+  },
+  {
+    "track_id": 42310,
+    "artist_id": 9976,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\042\\042310.mp3"
+  },
+  {
+    "track_id": 42372,
+    "artist_id": 9067,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\042\\042372.mp3"
+  },
+  {
+    "track_id": 42373,
+    "artist_id": 9067,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\042\\042373.mp3"
+  },
+  {
+    "track_id": 42374,
+    "artist_id": 9067,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\042\\042374.mp3"
+  },
+  {
+    "track_id": 42375,
+    "artist_id": 9067,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\042\\042375.mp3"
+  },
+  {
+    "track_id": 42376,
+    "artist_id": 9067,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\042\\042376.mp3"
+  },
+  {
+    "track_id": 42377,
+    "artist_id": 9067,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\042\\042377.mp3"
+  },
+  {
+    "track_id": 43585,
+    "artist_id": 10188,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\043\\043585.mp3"
+  },
+  {
+    "track_id": 43586,
+    "artist_id": 10188,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\043\\043586.mp3"
+  },
+  {
+    "track_id": 43587,
+    "artist_id": 10188,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\043\\043587.mp3"
+  },
+  {
+    "track_id": 43588,
+    "artist_id": 10188,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\043\\043588.mp3"
+  },
+  {
+    "track_id": 43589,
+    "artist_id": 10188,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\043\\043589.mp3"
+  },
+  {
+    "track_id": 43590,
+    "artist_id": 10188,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\043\\043590.mp3"
+  },
+  {
+    "track_id": 43598,
+    "artist_id": 10188,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\043\\043598.mp3"
+  },
+  {
+    "track_id": 43599,
+    "artist_id": 10188,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\043\\043599.mp3"
+  },
+  {
+    "track_id": 43600,
+    "artist_id": 10188,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\043\\043600.mp3"
+  },
+  {
+    "track_id": 43621,
+    "artist_id": 10180,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\043\\043621.mp3"
+  },
+  {
+    "track_id": 43623,
+    "artist_id": 10180,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\043\\043623.mp3"
+  },
+  {
+    "track_id": 43761,
+    "artist_id": 10180,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\043\\043761.mp3"
+  },
+  {
+    "track_id": 43796,
+    "artist_id": 10180,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\043\\043796.mp3"
+  },
+  {
+    "track_id": 43842,
+    "artist_id": 10180,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\043\\043842.mp3"
+  },
+  {
+    "track_id": 43843,
+    "artist_id": 10180,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\043\\043843.mp3"
+  },
+  {
+    "track_id": 43844,
+    "artist_id": 6422,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\043\\043844.mp3"
+  },
+  {
+    "track_id": 43858,
+    "artist_id": 3738,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\043\\043858.mp3"
+  },
+  {
+    "track_id": 43860,
+    "artist_id": 3738,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\043\\043860.mp3"
+  },
+  {
+    "track_id": 43863,
+    "artist_id": 3738,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\043\\043863.mp3"
+  },
+  {
+    "track_id": 43865,
+    "artist_id": 3738,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\043\\043865.mp3"
+  },
+  {
+    "track_id": 43866,
+    "artist_id": 6422,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\043\\043866.mp3"
+  },
+  {
+    "track_id": 43911,
+    "artist_id": 3738,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\043\\043911.mp3"
+  },
+  {
+    "track_id": 44092,
+    "artist_id": 1774,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\044\\044092.mp3"
+  },
+  {
+    "track_id": 44236,
+    "artist_id": 6048,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\044\\044236.mp3"
+  },
+  {
+    "track_id": 44792,
+    "artist_id": 10351,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\044\\044792.mp3"
+  },
+  {
+    "track_id": 44798,
+    "artist_id": 10354,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\044\\044798.mp3"
+  },
+  {
+    "track_id": 44799,
+    "artist_id": 10355,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\044\\044799.mp3"
+  },
+  {
+    "track_id": 44946,
+    "artist_id": 10384,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\044\\044946.mp3"
+  },
+  {
+    "track_id": 44947,
+    "artist_id": 10385,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\044\\044947.mp3"
+  },
+  {
+    "track_id": 44948,
+    "artist_id": 10385,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\044\\044948.mp3"
+  },
+  {
+    "track_id": 44949,
+    "artist_id": 10385,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\044\\044949.mp3"
+  },
+  {
+    "track_id": 44950,
+    "artist_id": 10385,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\044\\044950.mp3"
+  },
+  {
+    "track_id": 44951,
+    "artist_id": 10385,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\044\\044951.mp3"
+  },
+  {
+    "track_id": 44952,
+    "artist_id": 10385,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\044\\044952.mp3"
+  },
+  {
+    "track_id": 45055,
+    "artist_id": 10393,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\045\\045055.mp3"
+  },
+  {
+    "track_id": 45151,
+    "artist_id": 10421,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\045\\045151.mp3"
+  },
+  {
+    "track_id": 45335,
+    "artist_id": 10451,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\045\\045335.mp3"
+  },
+  {
+    "track_id": 46159,
+    "artist_id": 10592,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\046\\046159.mp3"
+  },
+  {
+    "track_id": 46160,
+    "artist_id": 10593,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\046\\046160.mp3"
+  },
+  {
+    "track_id": 46736,
+    "artist_id": 10703,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\046\\046736.mp3"
+  },
+  {
+    "track_id": 47100,
+    "artist_id": 8728,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\047\\047100.mp3"
+  },
+  {
+    "track_id": 47506,
+    "artist_id": 6150,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\047\\047506.mp3"
+  },
+  {
+    "track_id": 47661,
+    "artist_id": 7305,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\047\\047661.mp3"
+  },
+  {
+    "track_id": 47662,
+    "artist_id": 7305,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\047\\047662.mp3"
+  },
+  {
+    "track_id": 47663,
+    "artist_id": 7305,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\047\\047663.mp3"
+  },
+  {
+    "track_id": 47670,
+    "artist_id": 10905,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\047\\047670.mp3"
+  },
+  {
+    "track_id": 47671,
+    "artist_id": 10905,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\047\\047671.mp3"
+  },
+  {
+    "track_id": 48015,
+    "artist_id": 11008,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\048\\048015.mp3"
+  },
+  {
+    "track_id": 48367,
+    "artist_id": 11018,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\048\\048367.mp3"
+  },
+  {
+    "track_id": 48368,
+    "artist_id": 11018,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\048\\048368.mp3"
+  },
+  {
+    "track_id": 48369,
+    "artist_id": 11018,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\048\\048369.mp3"
+  },
+  {
+    "track_id": 48437,
+    "artist_id": 11087,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\048\\048437.mp3"
+  },
+  {
+    "track_id": 48443,
+    "artist_id": 11087,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\048\\048443.mp3"
+  },
+  {
+    "track_id": 48462,
+    "artist_id": 9573,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\048\\048462.mp3"
+  },
+  {
+    "track_id": 48463,
+    "artist_id": 9573,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\048\\048463.mp3"
+  },
+  {
+    "track_id": 48464,
+    "artist_id": 9573,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\048\\048464.mp3"
+  },
+  {
+    "track_id": 48465,
+    "artist_id": 9573,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\048\\048465.mp3"
+  },
+  {
+    "track_id": 48466,
+    "artist_id": 9573,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\048\\048466.mp3"
+  },
+  {
+    "track_id": 48990,
+    "artist_id": 6107,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\048\\048990.mp3"
+  },
+  {
+    "track_id": 49478,
+    "artist_id": 11217,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\049\\049478.mp3"
+  },
+  {
+    "track_id": 49479,
+    "artist_id": 3168,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\049\\049479.mp3"
+  },
+  {
+    "track_id": 50323,
+    "artist_id": 11364,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\050\\050323.mp3"
+  },
+  {
+    "track_id": 51261,
+    "artist_id": 11472,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\051\\051261.mp3"
+  },
+  {
+    "track_id": 51272,
+    "artist_id": 11483,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\051\\051272.mp3"
+  },
+  {
+    "track_id": 51479,
+    "artist_id": 10457,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\051\\051479.mp3"
+  },
+  {
+    "track_id": 51655,
+    "artist_id": 458,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\051\\051655.mp3"
+  },
+  {
+    "track_id": 51659,
+    "artist_id": 458,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\051\\051659.mp3"
+  },
+  {
+    "track_id": 51661,
+    "artist_id": 458,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\051\\051661.mp3"
+  },
+  {
+    "track_id": 51918,
+    "artist_id": 11595,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\051\\051918.mp3"
+  },
+  {
+    "track_id": 51919,
+    "artist_id": 11595,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\051\\051919.mp3"
+  },
+  {
+    "track_id": 52141,
+    "artist_id": 11632,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\052\\052141.mp3"
+  },
+  {
+    "track_id": 53228,
+    "artist_id": 11811,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\053\\053228.mp3"
+  },
+  {
+    "track_id": 53229,
+    "artist_id": 11811,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\053\\053229.mp3"
+  },
+  {
+    "track_id": 53586,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\053\\053586.mp3"
+  },
+  {
+    "track_id": 53587,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\053\\053587.mp3"
+  },
+  {
+    "track_id": 53588,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\053\\053588.mp3"
+  },
+  {
+    "track_id": 53589,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\053\\053589.mp3"
+  },
+  {
+    "track_id": 53591,
+    "artist_id": 11875,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\053\\053591.mp3"
+  },
+  {
+    "track_id": 53592,
+    "artist_id": 11875,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\053\\053592.mp3"
+  },
+  {
+    "track_id": 53807,
+    "artist_id": 11893,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\053\\053807.mp3"
+  },
+  {
+    "track_id": 54297,
+    "artist_id": 5152,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\054\\054297.mp3"
+  },
+  {
+    "track_id": 54433,
+    "artist_id": 11988,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\054\\054433.mp3"
+  },
+  {
+    "track_id": 54578,
+    "artist_id": 12014,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\054\\054578.mp3"
+  },
+  {
+    "track_id": 54942,
+    "artist_id": 12077,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\054\\054942.mp3"
+  },
+  {
+    "track_id": 55183,
+    "artist_id": 12099,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\055\\055183.mp3"
+  },
+  {
+    "track_id": 55186,
+    "artist_id": 12099,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\055\\055186.mp3"
+  },
+  {
+    "track_id": 55786,
+    "artist_id": 12193,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\055\\055786.mp3"
+  },
+  {
+    "track_id": 56888,
+    "artist_id": 12348,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\056\\056888.mp3"
+  },
+  {
+    "track_id": 57435,
+    "artist_id": 12420,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\057\\057435.mp3"
+  },
+  {
+    "track_id": 57437,
+    "artist_id": 12420,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\057\\057437.mp3"
+  },
+  {
+    "track_id": 57439,
+    "artist_id": 12420,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\057\\057439.mp3"
+  },
+  {
+    "track_id": 58068,
+    "artist_id": 11326,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\058\\058068.mp3"
+  },
+  {
+    "track_id": 58070,
+    "artist_id": 11326,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\058\\058070.mp3"
+  },
+  {
+    "track_id": 58225,
+    "artist_id": 7486,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\058\\058225.mp3"
+  },
+  {
+    "track_id": 59373,
+    "artist_id": 12802,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\059\\059373.mp3"
+  },
+  {
+    "track_id": 59374,
+    "artist_id": 12802,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\059\\059374.mp3"
+  },
+  {
+    "track_id": 59561,
+    "artist_id": 12831,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\059\\059561.mp3"
+  },
+  {
+    "track_id": 59719,
+    "artist_id": 6344,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\059\\059719.mp3"
+  },
+  {
+    "track_id": 59720,
+    "artist_id": 6344,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\059\\059720.mp3"
+  },
+  {
+    "track_id": 59721,
+    "artist_id": 6344,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\059\\059721.mp3"
+  },
+  {
+    "track_id": 59723,
+    "artist_id": 6344,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\059\\059723.mp3"
+  },
+  {
+    "track_id": 59724,
+    "artist_id": 6344,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\059\\059724.mp3"
+  },
+  {
+    "track_id": 59725,
+    "artist_id": 6344,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\059\\059725.mp3"
+  },
+  {
+    "track_id": 59726,
+    "artist_id": 6344,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\059\\059726.mp3"
+  },
+  {
+    "track_id": 59727,
+    "artist_id": 6344,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\059\\059727.mp3"
+  },
+  {
+    "track_id": 59930,
+    "artist_id": 12878,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\059\\059930.mp3"
+  },
+  {
+    "track_id": 60533,
+    "artist_id": 12974,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\060\\060533.mp3"
+  },
+  {
+    "track_id": 60534,
+    "artist_id": 12974,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\060\\060534.mp3"
+  },
+  {
+    "track_id": 60535,
+    "artist_id": 12974,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\060\\060535.mp3"
+  },
+  {
+    "track_id": 60536,
+    "artist_id": 12974,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\060\\060536.mp3"
+  },
+  {
+    "track_id": 60537,
+    "artist_id": 12974,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\060\\060537.mp3"
+  },
+  {
+    "track_id": 60753,
+    "artist_id": 13021,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\060\\060753.mp3"
+  },
+  {
+    "track_id": 60754,
+    "artist_id": 13021,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\060\\060754.mp3"
+  },
+  {
+    "track_id": 60755,
+    "artist_id": 13021,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\060\\060755.mp3"
+  },
+  {
+    "track_id": 60756,
+    "artist_id": 13021,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\060\\060756.mp3"
+  },
+  {
+    "track_id": 60757,
+    "artist_id": 13021,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\060\\060757.mp3"
+  },
+  {
+    "track_id": 60758,
+    "artist_id": 13021,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\060\\060758.mp3"
+  },
+  {
+    "track_id": 60775,
+    "artist_id": 13023,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\060\\060775.mp3"
+  },
+  {
+    "track_id": 60776,
+    "artist_id": 13023,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\060\\060776.mp3"
+  },
+  {
+    "track_id": 60777,
+    "artist_id": 13023,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\060\\060777.mp3"
+  },
+  {
+    "track_id": 60994,
+    "artist_id": 13059,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\060\\060994.mp3"
+  },
+  {
+    "track_id": 61006,
+    "artist_id": 12347,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\061\\061006.mp3"
+  },
+  {
+    "track_id": 61007,
+    "artist_id": 12347,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\061\\061007.mp3"
+  },
+  {
+    "track_id": 61008,
+    "artist_id": 12347,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\061\\061008.mp3"
+  },
+  {
+    "track_id": 61010,
+    "artist_id": 12347,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\061\\061010.mp3"
+  },
+  {
+    "track_id": 61011,
+    "artist_id": 12347,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\061\\061011.mp3"
+  },
+  {
+    "track_id": 61012,
+    "artist_id": 12347,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\061\\061012.mp3"
+  },
+  {
+    "track_id": 61013,
+    "artist_id": 12347,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\061\\061013.mp3"
+  },
+  {
+    "track_id": 62189,
+    "artist_id": 13220,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\062\\062189.mp3"
+  },
+  {
+    "track_id": 62190,
+    "artist_id": 13221,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\062\\062190.mp3"
+  },
+  {
+    "track_id": 62337,
+    "artist_id": 7486,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\062\\062337.mp3"
+  },
+  {
+    "track_id": 62426,
+    "artist_id": 13262,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\062\\062426.mp3"
+  },
+  {
+    "track_id": 62436,
+    "artist_id": 13262,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\062\\062436.mp3"
+  },
+  {
+    "track_id": 62445,
+    "artist_id": 13262,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\062\\062445.mp3"
+  },
+  {
+    "track_id": 62446,
+    "artist_id": 13262,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\062\\062446.mp3"
+  },
+  {
+    "track_id": 62448,
+    "artist_id": 13262,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\062\\062448.mp3"
+  },
+  {
+    "track_id": 62449,
+    "artist_id": 13262,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\062\\062449.mp3"
+  },
+  {
+    "track_id": 62450,
+    "artist_id": 13262,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\062\\062450.mp3"
+  },
+  {
+    "track_id": 62452,
+    "artist_id": 13262,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\062\\062452.mp3"
+  },
+  {
+    "track_id": 62458,
+    "artist_id": 13262,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\062\\062458.mp3"
+  },
+  {
+    "track_id": 62671,
+    "artist_id": 13262,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\062\\062671.mp3"
+  },
+  {
+    "track_id": 62742,
+    "artist_id": 13262,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\062\\062742.mp3"
+  },
+  {
+    "track_id": 62748,
+    "artist_id": 13262,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\062\\062748.mp3"
+  },
+  {
+    "track_id": 62749,
+    "artist_id": 13262,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\062\\062749.mp3"
+  },
+  {
+    "track_id": 62750,
+    "artist_id": 13262,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\062\\062750.mp3"
+  },
+  {
+    "track_id": 62751,
+    "artist_id": 13262,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\062\\062751.mp3"
+  },
+  {
+    "track_id": 62753,
+    "artist_id": 13262,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\062\\062753.mp3"
+  },
+  {
+    "track_id": 63191,
+    "artist_id": 13337,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\063\\063191.mp3"
+  },
+  {
+    "track_id": 63250,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\063\\063250.mp3"
+  },
+  {
+    "track_id": 63251,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\063\\063251.mp3"
+  },
+  {
+    "track_id": 63252,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\063\\063252.mp3"
+  },
+  {
+    "track_id": 63253,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\063\\063253.mp3"
+  },
+  {
+    "track_id": 63255,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\063\\063255.mp3"
+  },
+  {
+    "track_id": 63257,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\063\\063257.mp3"
+  },
+  {
+    "track_id": 63258,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\063\\063258.mp3"
+  },
+  {
+    "track_id": 63287,
+    "artist_id": 13346,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\063\\063287.mp3"
+  },
+  {
+    "track_id": 63289,
+    "artist_id": 13346,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\063\\063289.mp3"
+  },
+  {
+    "track_id": 63290,
+    "artist_id": 13346,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\063\\063290.mp3"
+  },
+  {
+    "track_id": 63291,
+    "artist_id": 13346,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\063\\063291.mp3"
+  },
+  {
+    "track_id": 63292,
+    "artist_id": 13346,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\063\\063292.mp3"
+  },
+  {
+    "track_id": 63456,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\063\\063456.mp3"
+  },
+  {
+    "track_id": 63457,
+    "artist_id": 77,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\063\\063457.mp3"
+  },
+  {
+    "track_id": 63655,
+    "artist_id": 13262,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\063\\063655.mp3"
+  },
+  {
+    "track_id": 64338,
+    "artist_id": 13450,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\064\\064338.mp3"
+  },
+  {
+    "track_id": 64410,
+    "artist_id": 13456,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\064\\064410.mp3"
+  },
+  {
+    "track_id": 64515,
+    "artist_id": 13476,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\064\\064515.mp3"
+  },
+  {
+    "track_id": 64516,
+    "artist_id": 13476,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\064\\064516.mp3"
+  },
+  {
+    "track_id": 64517,
+    "artist_id": 13476,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\064\\064517.mp3"
+  },
+  {
+    "track_id": 64519,
+    "artist_id": 13476,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\064\\064519.mp3"
+  },
+  {
+    "track_id": 64520,
+    "artist_id": 13476,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\064\\064520.mp3"
+  },
+  {
+    "track_id": 64521,
+    "artist_id": 13476,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\064\\064521.mp3"
+  },
+  {
+    "track_id": 64522,
+    "artist_id": 13476,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\064\\064522.mp3"
+  },
+  {
+    "track_id": 64523,
+    "artist_id": 13476,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\064\\064523.mp3"
+  },
+  {
+    "track_id": 64918,
+    "artist_id": 13526,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\064\\064918.mp3"
+  },
+  {
+    "track_id": 64919,
+    "artist_id": 13526,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\064\\064919.mp3"
+  },
+  {
+    "track_id": 64988,
+    "artist_id": 13533,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\064\\064988.mp3"
+  },
+  {
+    "track_id": 64989,
+    "artist_id": 13533,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\064\\064989.mp3"
+  },
+  {
+    "track_id": 64990,
+    "artist_id": 13533,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\064\\064990.mp3"
+  },
+  {
+    "track_id": 64991,
+    "artist_id": 13533,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\064\\064991.mp3"
+  },
+  {
+    "track_id": 64992,
+    "artist_id": 13533,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\064\\064992.mp3"
+  },
+  {
+    "track_id": 64993,
+    "artist_id": 13533,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\064\\064993.mp3"
+  },
+  {
+    "track_id": 64994,
+    "artist_id": 13533,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\064\\064994.mp3"
+  },
+  {
+    "track_id": 64995,
+    "artist_id": 13533,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\064\\064995.mp3"
+  },
+  {
+    "track_id": 65063,
+    "artist_id": 9573,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\065\\065063.mp3"
+  },
+  {
+    "track_id": 65064,
+    "artist_id": 9573,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\065\\065064.mp3"
+  },
+  {
+    "track_id": 65619,
+    "artist_id": 13671,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\065\\065619.mp3"
+  },
+  {
+    "track_id": 66058,
+    "artist_id": 8343,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\066\\066058.mp3"
+  },
+  {
+    "track_id": 66180,
+    "artist_id": 9765,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\066\\066180.mp3"
+  },
+  {
+    "track_id": 66187,
+    "artist_id": 9765,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\066\\066187.mp3"
+  },
+  {
+    "track_id": 66394,
+    "artist_id": 13831,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\066\\066394.mp3"
+  },
+  {
+    "track_id": 66636,
+    "artist_id": 13889,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\066\\066636.mp3"
+  },
+  {
+    "track_id": 66637,
+    "artist_id": 13889,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\066\\066637.mp3"
+  },
+  {
+    "track_id": 66638,
+    "artist_id": 13889,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\066\\066638.mp3"
+  },
+  {
+    "track_id": 66689,
+    "artist_id": 13546,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\066\\066689.mp3"
+  },
+  {
+    "track_id": 66690,
+    "artist_id": 13546,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\066\\066690.mp3"
+  },
+  {
+    "track_id": 66717,
+    "artist_id": 13904,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\066\\066717.mp3"
+  },
+  {
+    "track_id": 67007,
+    "artist_id": 13919,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\067\\067007.mp3"
+  },
+  {
+    "track_id": 67010,
+    "artist_id": 13919,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\067\\067010.mp3"
+  },
+  {
+    "track_id": 67163,
+    "artist_id": 13940,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\067\\067163.mp3"
+  },
+  {
+    "track_id": 67357,
+    "artist_id": 13757,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\067\\067357.mp3"
+  },
+  {
+    "track_id": 67361,
+    "artist_id": 13993,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\067\\067361.mp3"
+  },
+  {
+    "track_id": 67500,
+    "artist_id": 14018,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\067\\067500.mp3"
+  },
+  {
+    "track_id": 68353,
+    "artist_id": 14093,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\068\\068353.mp3"
+  },
+  {
+    "track_id": 68354,
+    "artist_id": 14093,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\068\\068354.mp3"
+  },
+  {
+    "track_id": 68355,
+    "artist_id": 14093,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\068\\068355.mp3"
+  },
+  {
+    "track_id": 68356,
+    "artist_id": 14093,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\068\\068356.mp3"
+  },
+  {
+    "track_id": 68444,
+    "artist_id": 14104,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\068\\068444.mp3"
+  },
+  {
+    "track_id": 68538,
+    "artist_id": 14124,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\068\\068538.mp3"
+  },
+  {
+    "track_id": 68539,
+    "artist_id": 14125,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\068\\068539.mp3"
+  },
+  {
+    "track_id": 68540,
+    "artist_id": 14125,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\068\\068540.mp3"
+  },
+  {
+    "track_id": 68551,
+    "artist_id": 14132,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\068\\068551.mp3"
+  },
+  {
+    "track_id": 68891,
+    "artist_id": 9067,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\068\\068891.mp3"
+  },
+  {
+    "track_id": 68892,
+    "artist_id": 9067,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\068\\068892.mp3"
+  },
+  {
+    "track_id": 68893,
+    "artist_id": 9067,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\068\\068893.mp3"
+  },
+  {
+    "track_id": 68894,
+    "artist_id": 9067,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\068\\068894.mp3"
+  },
+  {
+    "track_id": 68895,
+    "artist_id": 9067,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\068\\068895.mp3"
+  },
+  {
+    "track_id": 68896,
+    "artist_id": 9067,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\068\\068896.mp3"
+  },
+  {
+    "track_id": 68897,
+    "artist_id": 9067,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\068\\068897.mp3"
+  },
+  {
+    "track_id": 68898,
+    "artist_id": 9067,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\068\\068898.mp3"
+  },
+  {
+    "track_id": 68899,
+    "artist_id": 9067,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\068\\068899.mp3"
+  },
+  {
+    "track_id": 69181,
+    "artist_id": 14160,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\069\\069181.mp3"
+  },
+  {
+    "track_id": 69182,
+    "artist_id": 14160,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\069\\069182.mp3"
+  },
+  {
+    "track_id": 69188,
+    "artist_id": 14160,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\069\\069188.mp3"
+  },
+  {
+    "track_id": 69303,
+    "artist_id": 12704,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\069\\069303.mp3"
+  },
+  {
+    "track_id": 69554,
+    "artist_id": 14261,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\069\\069554.mp3"
+  },
+  {
+    "track_id": 69555,
+    "artist_id": 14261,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\069\\069555.mp3"
+  },
+  {
+    "track_id": 69561,
+    "artist_id": 14261,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\069\\069561.mp3"
+  },
+  {
+    "track_id": 69563,
+    "artist_id": 14261,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\069\\069563.mp3"
+  },
+  {
+    "track_id": 69564,
+    "artist_id": 14261,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\069\\069564.mp3"
+  },
+  {
+    "track_id": 69567,
+    "artist_id": 14278,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\069\\069567.mp3"
+  },
+  {
+    "track_id": 69744,
+    "artist_id": 7272,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\069\\069744.mp3"
+  },
+  {
+    "track_id": 69745,
+    "artist_id": 7272,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\069\\069745.mp3"
+  },
+  {
+    "track_id": 69746,
+    "artist_id": 7272,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\069\\069746.mp3"
+  },
+  {
+    "track_id": 69747,
+    "artist_id": 7272,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\069\\069747.mp3"
+  },
+  {
+    "track_id": 70654,
+    "artist_id": 14456,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\070\\070654.mp3"
+  },
+  {
+    "track_id": 70655,
+    "artist_id": 14456,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\070\\070655.mp3"
+  },
+  {
+    "track_id": 70657,
+    "artist_id": 14456,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\070\\070657.mp3"
+  },
+  {
+    "track_id": 70660,
+    "artist_id": 14456,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\070\\070660.mp3"
+  },
+  {
+    "track_id": 71157,
+    "artist_id": 14456,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\071\\071157.mp3"
+  },
+  {
+    "track_id": 71158,
+    "artist_id": 14456,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\071\\071158.mp3"
+  },
+  {
+    "track_id": 71172,
+    "artist_id": 11213,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\071\\071172.mp3"
+  },
+  {
+    "track_id": 71173,
+    "artist_id": 11213,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\071\\071173.mp3"
+  },
+  {
+    "track_id": 71174,
+    "artist_id": 11213,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\071\\071174.mp3"
+  },
+  {
+    "track_id": 71175,
+    "artist_id": 11213,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\071\\071175.mp3"
+  },
+  {
+    "track_id": 71509,
+    "artist_id": 14565,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\071\\071509.mp3"
+  },
+  {
+    "track_id": 71512,
+    "artist_id": 15496,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\071\\071512.mp3"
+  },
+  {
+    "track_id": 71690,
+    "artist_id": 14456,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\071\\071690.mp3"
+  },
+  {
+    "track_id": 71691,
+    "artist_id": 14456,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\071\\071691.mp3"
+  },
+  {
+    "track_id": 71692,
+    "artist_id": 14456,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\071\\071692.mp3"
+  },
+  {
+    "track_id": 71693,
+    "artist_id": 14456,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\071\\071693.mp3"
+  },
+  {
+    "track_id": 71694,
+    "artist_id": 14456,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\071\\071694.mp3"
+  },
+  {
+    "track_id": 71695,
+    "artist_id": 14456,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\071\\071695.mp3"
+  },
+  {
+    "track_id": 71719,
+    "artist_id": 14591,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\071\\071719.mp3"
+  },
+  {
+    "track_id": 72129,
+    "artist_id": 14456,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\072\\072129.mp3"
+  },
+  {
+    "track_id": 72130,
+    "artist_id": 14456,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\072\\072130.mp3"
+  },
+  {
+    "track_id": 72131,
+    "artist_id": 14456,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\072\\072131.mp3"
+  },
+  {
+    "track_id": 72134,
+    "artist_id": 14456,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\072\\072134.mp3"
+  },
+  {
+    "track_id": 72135,
+    "artist_id": 14456,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\072\\072135.mp3"
+  },
+  {
+    "track_id": 72136,
+    "artist_id": 14456,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\072\\072136.mp3"
+  },
+  {
+    "track_id": 72206,
+    "artist_id": 9576,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\072\\072206.mp3"
+  },
+  {
+    "track_id": 72210,
+    "artist_id": 9576,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\072\\072210.mp3"
+  },
+  {
+    "track_id": 72215,
+    "artist_id": 9576,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\072\\072215.mp3"
+  },
+  {
+    "track_id": 72287,
+    "artist_id": 14695,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\072\\072287.mp3"
+  },
+  {
+    "track_id": 72288,
+    "artist_id": 14695,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\072\\072288.mp3"
+  },
+  {
+    "track_id": 72289,
+    "artist_id": 14695,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\072\\072289.mp3"
+  },
+  {
+    "track_id": 72290,
+    "artist_id": 14695,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\072\\072290.mp3"
+  },
+  {
+    "track_id": 72468,
+    "artist_id": 11213,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\072\\072468.mp3"
+  },
+  {
+    "track_id": 72562,
+    "artist_id": 14740,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\072\\072562.mp3"
+  },
+  {
+    "track_id": 72565,
+    "artist_id": 14740,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\072\\072565.mp3"
+  },
+  {
+    "track_id": 72570,
+    "artist_id": 14740,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\072\\072570.mp3"
+  },
+  {
+    "track_id": 72605,
+    "artist_id": 14740,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\072\\072605.mp3"
+  },
+  {
+    "track_id": 72607,
+    "artist_id": 14740,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\072\\072607.mp3"
+  },
+  {
+    "track_id": 72612,
+    "artist_id": 14740,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\072\\072612.mp3"
+  },
+  {
+    "track_id": 73125,
+    "artist_id": 10456,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\073\\073125.mp3"
+  },
+  {
+    "track_id": 73550,
+    "artist_id": 14456,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\073\\073550.mp3"
+  },
+  {
+    "track_id": 73551,
+    "artist_id": 14456,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\073\\073551.mp3"
+  },
+  {
+    "track_id": 73658,
+    "artist_id": 5881,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\073\\073658.mp3"
+  },
+  {
+    "track_id": 73675,
+    "artist_id": 5881,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\073\\073675.mp3"
+  },
+  {
+    "track_id": 73764,
+    "artist_id": 14993,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\073\\073764.mp3"
+  },
+  {
+    "track_id": 73773,
+    "artist_id": 5303,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\073\\073773.mp3"
+  },
+  {
+    "track_id": 73776,
+    "artist_id": 14991,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\073\\073776.mp3"
+  },
+  {
+    "track_id": 73797,
+    "artist_id": 5881,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\073\\073797.mp3"
+  },
+  {
+    "track_id": 74381,
+    "artist_id": 14721,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\074\\074381.mp3"
+  },
+  {
+    "track_id": 74382,
+    "artist_id": 15125,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\074\\074382.mp3"
+  },
+  {
+    "track_id": 74393,
+    "artist_id": 12565,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\074\\074393.mp3"
+  },
+  {
+    "track_id": 74546,
+    "artist_id": 4450,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\074\\074546.mp3"
+  },
+  {
+    "track_id": 74954,
+    "artist_id": 14456,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\074\\074954.mp3"
+  },
+  {
+    "track_id": 74955,
+    "artist_id": 14456,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\074\\074955.mp3"
+  },
+  {
+    "track_id": 75194,
+    "artist_id": 15241,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\075\\075194.mp3"
+  },
+  {
+    "track_id": 75304,
+    "artist_id": 15255,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\075\\075304.mp3"
+  },
+  {
+    "track_id": 76036,
+    "artist_id": 15391,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\076\\076036.mp3"
+  },
+  {
+    "track_id": 76128,
+    "artist_id": 9067,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\076\\076128.mp3"
+  },
+  {
+    "track_id": 76129,
+    "artist_id": 9067,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\076\\076129.mp3"
+  },
+  {
+    "track_id": 76130,
+    "artist_id": 9067,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\076\\076130.mp3"
+  },
+  {
+    "track_id": 76131,
+    "artist_id": 9067,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\076\\076131.mp3"
+  },
+  {
+    "track_id": 76375,
+    "artist_id": 10457,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\076\\076375.mp3"
+  },
+  {
+    "track_id": 76381,
+    "artist_id": 10457,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\076\\076381.mp3"
+  },
+  {
+    "track_id": 78833,
+    "artist_id": 15601,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\078\\078833.mp3"
+  },
+  {
+    "track_id": 78834,
+    "artist_id": 15601,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\078\\078834.mp3"
+  },
+  {
+    "track_id": 78839,
+    "artist_id": 15601,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\078\\078839.mp3"
+  },
+  {
+    "track_id": 78841,
+    "artist_id": 15601,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\078\\078841.mp3"
+  },
+  {
+    "track_id": 78843,
+    "artist_id": 15601,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\078\\078843.mp3"
+  },
+  {
+    "track_id": 78845,
+    "artist_id": 15601,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\078\\078845.mp3"
+  },
+  {
+    "track_id": 78847,
+    "artist_id": 15601,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\078\\078847.mp3"
+  },
+  {
+    "track_id": 78848,
+    "artist_id": 15601,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\078\\078848.mp3"
+  },
+  {
+    "track_id": 78849,
+    "artist_id": 15601,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\078\\078849.mp3"
+  },
+  {
+    "track_id": 78850,
+    "artist_id": 15601,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\078\\078850.mp3"
+  },
+  {
+    "track_id": 78851,
+    "artist_id": 15601,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\078\\078851.mp3"
+  },
+  {
+    "track_id": 78852,
+    "artist_id": 15601,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\078\\078852.mp3"
+  },
+  {
+    "track_id": 79973,
+    "artist_id": 15761,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\079\\079973.mp3"
+  },
+  {
+    "track_id": 80515,
+    "artist_id": 13262,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\080\\080515.mp3"
+  },
+  {
+    "track_id": 80516,
+    "artist_id": 13262,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\080\\080516.mp3"
+  },
+  {
+    "track_id": 80517,
+    "artist_id": 13262,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\080\\080517.mp3"
+  },
+  {
+    "track_id": 80518,
+    "artist_id": 13262,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\080\\080518.mp3"
+  },
+  {
+    "track_id": 80519,
+    "artist_id": 13262,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\080\\080519.mp3"
+  },
+  {
+    "track_id": 80520,
+    "artist_id": 13262,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\080\\080520.mp3"
+  },
+  {
+    "track_id": 80758,
+    "artist_id": 10188,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\080\\080758.mp3"
+  },
+  {
+    "track_id": 80765,
+    "artist_id": 10188,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\080\\080765.mp3"
+  },
+  {
+    "track_id": 80766,
+    "artist_id": 10188,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\080\\080766.mp3"
+  },
+  {
+    "track_id": 81033,
+    "artist_id": 15255,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\081\\081033.mp3"
+  },
+  {
+    "track_id": 81037,
+    "artist_id": 15255,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\081\\081037.mp3"
+  },
+  {
+    "track_id": 81895,
+    "artist_id": 6075,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\081\\081895.mp3"
+  },
+  {
+    "track_id": 82505,
+    "artist_id": 4450,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\082\\082505.mp3"
+  },
+  {
+    "track_id": 83908,
+    "artist_id": 16171,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\083\\083908.mp3"
+  },
+  {
+    "track_id": 83954,
+    "artist_id": 16228,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\083\\083954.mp3"
+  },
+  {
+    "track_id": 84056,
+    "artist_id": 16247,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\084\\084056.mp3"
+  },
+  {
+    "track_id": 84605,
+    "artist_id": 15404,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\084\\084605.mp3"
+  },
+  {
+    "track_id": 84768,
+    "artist_id": 329,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\084\\084768.mp3"
+  },
+  {
+    "track_id": 85027,
+    "artist_id": 16402,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\085\\085027.mp3"
+  },
+  {
+    "track_id": 85290,
+    "artist_id": 13743,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\085\\085290.mp3"
+  },
+  {
+    "track_id": 85291,
+    "artist_id": 13743,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\085\\085291.mp3"
+  },
+  {
+    "track_id": 85482,
+    "artist_id": 9765,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\085\\085482.mp3"
+  },
+  {
+    "track_id": 85484,
+    "artist_id": 9765,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\085\\085484.mp3"
+  },
+  {
+    "track_id": 85485,
+    "artist_id": 9765,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\085\\085485.mp3"
+  },
+  {
+    "track_id": 85486,
+    "artist_id": 9765,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\085\\085486.mp3"
+  },
+  {
+    "track_id": 85487,
+    "artist_id": 9765,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\085\\085487.mp3"
+  },
+  {
+    "track_id": 85488,
+    "artist_id": 9765,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\085\\085488.mp3"
+  },
+  {
+    "track_id": 85489,
+    "artist_id": 9765,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\085\\085489.mp3"
+  },
+  {
+    "track_id": 85490,
+    "artist_id": 9765,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\085\\085490.mp3"
+  },
+  {
+    "track_id": 85491,
+    "artist_id": 9765,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\085\\085491.mp3"
+  },
+  {
+    "track_id": 85492,
+    "artist_id": 9765,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\085\\085492.mp3"
+  },
+  {
+    "track_id": 85691,
+    "artist_id": 5104,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\085\\085691.mp3"
+  },
+  {
+    "track_id": 85692,
+    "artist_id": 5104,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\085\\085692.mp3"
+  },
+  {
+    "track_id": 85693,
+    "artist_id": 544,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\085\\085693.mp3"
+  },
+  {
+    "track_id": 86720,
+    "artist_id": 11364,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\086\\086720.mp3"
+  },
+  {
+    "track_id": 86721,
+    "artist_id": 11364,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\086\\086721.mp3"
+  },
+  {
+    "track_id": 86724,
+    "artist_id": 11364,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\086\\086724.mp3"
+  },
+  {
+    "track_id": 86725,
+    "artist_id": 11364,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\086\\086725.mp3"
+  },
+  {
+    "track_id": 86730,
+    "artist_id": 11364,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\086\\086730.mp3"
+  },
+  {
+    "track_id": 86788,
+    "artist_id": 16627,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\086\\086788.mp3"
+  },
+  {
+    "track_id": 87068,
+    "artist_id": 16672,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\087\\087068.mp3"
+  },
+  {
+    "track_id": 87070,
+    "artist_id": 16673,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\087\\087070.mp3"
+  },
+  {
+    "track_id": 87361,
+    "artist_id": 4202,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\087\\087361.mp3"
+  },
+  {
+    "track_id": 87362,
+    "artist_id": 4202,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\087\\087362.mp3"
+  },
+  {
+    "track_id": 87363,
+    "artist_id": 4202,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\087\\087363.mp3"
+  },
+  {
+    "track_id": 87430,
+    "artist_id": 16748,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\087\\087430.mp3"
+  },
+  {
+    "track_id": 87431,
+    "artist_id": 16748,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\087\\087431.mp3"
+  },
+  {
+    "track_id": 88959,
+    "artist_id": 15300,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\088\\088959.mp3"
+  },
+  {
+    "track_id": 88960,
+    "artist_id": 15300,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\088\\088960.mp3"
+  },
+  {
+    "track_id": 89445,
+    "artist_id": 16870,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\089\\089445.mp3"
+  },
+  {
+    "track_id": 89704,
+    "artist_id": 7486,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\089\\089704.mp3"
+  },
+  {
+    "track_id": 90652,
+    "artist_id": 16982,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\090\\090652.mp3"
+  },
+  {
+    "track_id": 90695,
+    "artist_id": 16994,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\090\\090695.mp3"
+  },
+  {
+    "track_id": 91092,
+    "artist_id": 17023,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\091\\091092.mp3"
+  },
+  {
+    "track_id": 91093,
+    "artist_id": 17023,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\091\\091093.mp3"
+  },
+  {
+    "track_id": 91170,
+    "artist_id": 17039,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\091\\091170.mp3"
+  },
+  {
+    "track_id": 91958,
+    "artist_id": 17134,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\091\\091958.mp3"
+  },
+  {
+    "track_id": 92292,
+    "artist_id": 17134,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\092\\092292.mp3"
+  },
+  {
+    "track_id": 93074,
+    "artist_id": 17285,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\093\\093074.mp3"
+  },
+  {
+    "track_id": 93075,
+    "artist_id": 17285,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\093\\093075.mp3"
+  },
+  {
+    "track_id": 93076,
+    "artist_id": 17285,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\093\\093076.mp3"
+  },
+  {
+    "track_id": 93915,
+    "artist_id": 13262,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\093\\093915.mp3"
+  },
+  {
+    "track_id": 93917,
+    "artist_id": 13262,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\093\\093917.mp3"
+  },
+  {
+    "track_id": 93918,
+    "artist_id": 13262,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\093\\093918.mp3"
+  },
+  {
+    "track_id": 93919,
+    "artist_id": 13262,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\093\\093919.mp3"
+  },
+  {
+    "track_id": 93920,
+    "artist_id": 13262,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\093\\093920.mp3"
+  },
+  {
+    "track_id": 93921,
+    "artist_id": 13262,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\093\\093921.mp3"
+  },
+  {
+    "track_id": 94422,
+    "artist_id": 10341,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\094\\094422.mp3"
+  },
+  {
+    "track_id": 95231,
+    "artist_id": 17496,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\095\\095231.mp3"
+  },
+  {
+    "track_id": 96399,
+    "artist_id": 17630,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\096\\096399.mp3"
+  },
+  {
+    "track_id": 96400,
+    "artist_id": 17630,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\096\\096400.mp3"
+  },
+  {
+    "track_id": 96401,
+    "artist_id": 17630,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\096\\096401.mp3"
+  },
+  {
+    "track_id": 96402,
+    "artist_id": 17630,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\096\\096402.mp3"
+  },
+  {
+    "track_id": 96403,
+    "artist_id": 17630,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\096\\096403.mp3"
+  },
+  {
+    "track_id": 96726,
+    "artist_id": 17701,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\096\\096726.mp3"
+  },
+  {
+    "track_id": 96728,
+    "artist_id": 17701,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\096\\096728.mp3"
+  },
+  {
+    "track_id": 96729,
+    "artist_id": 17701,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\096\\096729.mp3"
+  },
+  {
+    "track_id": 96730,
+    "artist_id": 17701,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\096\\096730.mp3"
+  },
+  {
+    "track_id": 96731,
+    "artist_id": 17701,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\096\\096731.mp3"
+  },
+  {
+    "track_id": 96935,
+    "artist_id": 17496,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\096\\096935.mp3"
+  },
+  {
+    "track_id": 96936,
+    "artist_id": 17496,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\096\\096936.mp3"
+  },
+  {
+    "track_id": 97279,
+    "artist_id": 13255,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\097\\097279.mp3"
+  },
+  {
+    "track_id": 97283,
+    "artist_id": 13255,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\097\\097283.mp3"
+  },
+  {
+    "track_id": 97285,
+    "artist_id": 13255,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\097\\097285.mp3"
+  },
+  {
+    "track_id": 97286,
+    "artist_id": 17448,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\097\\097286.mp3"
+  },
+  {
+    "track_id": 97690,
+    "artist_id": 15300,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\097\\097690.mp3"
+  },
+  {
+    "track_id": 97894,
+    "artist_id": 17080,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\097\\097894.mp3"
+  },
+  {
+    "track_id": 98077,
+    "artist_id": 17448,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\098\\098077.mp3"
+  },
+  {
+    "track_id": 98298,
+    "artist_id": 12974,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\098\\098298.mp3"
+  },
+  {
+    "track_id": 98299,
+    "artist_id": 12974,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\098\\098299.mp3"
+  },
+  {
+    "track_id": 98300,
+    "artist_id": 12974,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\098\\098300.mp3"
+  },
+  {
+    "track_id": 98301,
+    "artist_id": 12974,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\098\\098301.mp3"
+  },
+  {
+    "track_id": 98302,
+    "artist_id": 12974,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\098\\098302.mp3"
+  },
+  {
+    "track_id": 98666,
+    "artist_id": 17977,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\098\\098666.mp3"
+  },
+  {
+    "track_id": 99041,
+    "artist_id": 17999,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\099\\099041.mp3"
+  },
+  {
+    "track_id": 99134,
+    "artist_id": 18011,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\099\\099134.mp3"
+  },
+  {
+    "track_id": 99135,
+    "artist_id": 18011,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\099\\099135.mp3"
+  },
+  {
+    "track_id": 99411,
+    "artist_id": 18027,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\099\\099411.mp3"
+  },
+  {
+    "track_id": 99419,
+    "artist_id": 18027,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\099\\099419.mp3"
+  },
+  {
+    "track_id": 100478,
+    "artist_id": 13450,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\100\\100478.mp3"
+  },
+  {
+    "track_id": 100479,
+    "artist_id": 13450,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\100\\100479.mp3"
+  },
+  {
+    "track_id": 100480,
+    "artist_id": 13450,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\100\\100480.mp3"
+  },
+  {
+    "track_id": 100535,
+    "artist_id": 12787,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\100\\100535.mp3"
+  },
+  {
+    "track_id": 100536,
+    "artist_id": 12787,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\100\\100536.mp3"
+  },
+  {
+    "track_id": 100544,
+    "artist_id": 17128,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\100\\100544.mp3"
+  },
+  {
+    "track_id": 100549,
+    "artist_id": 17128,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\100\\100549.mp3"
+  },
+  {
+    "track_id": 100550,
+    "artist_id": 17128,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\100\\100550.mp3"
+  },
+  {
+    "track_id": 100552,
+    "artist_id": 17128,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\100\\100552.mp3"
+  },
+  {
+    "track_id": 104064,
+    "artist_id": 18248,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\104\\104064.mp3"
+  },
+  {
+    "track_id": 104065,
+    "artist_id": 18248,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\104\\104065.mp3"
+  },
+  {
+    "track_id": 104066,
+    "artist_id": 18248,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\104\\104066.mp3"
+  },
+  {
+    "track_id": 104067,
+    "artist_id": 18248,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\104\\104067.mp3"
+  },
+  {
+    "track_id": 104068,
+    "artist_id": 18248,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\104\\104068.mp3"
+  },
+  {
+    "track_id": 105196,
+    "artist_id": 18523,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\105\\105196.mp3"
+  },
+  {
+    "track_id": 105682,
+    "artist_id": 17080,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\105\\105682.mp3"
+  },
+  {
+    "track_id": 105712,
+    "artist_id": 18573,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\105\\105712.mp3"
+  },
+  {
+    "track_id": 105713,
+    "artist_id": 18573,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\105\\105713.mp3"
+  },
+  {
+    "track_id": 105714,
+    "artist_id": 18573,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\105\\105714.mp3"
+  },
+  {
+    "track_id": 105715,
+    "artist_id": 18573,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\105\\105715.mp3"
+  },
+  {
+    "track_id": 105716,
+    "artist_id": 18573,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\105\\105716.mp3"
+  },
+  {
+    "track_id": 105717,
+    "artist_id": 18573,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\105\\105717.mp3"
+  },
+  {
+    "track_id": 105718,
+    "artist_id": 18573,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\105\\105718.mp3"
+  },
+  {
+    "track_id": 106274,
+    "artist_id": 18641,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\106\\106274.mp3"
+  },
+  {
+    "track_id": 106277,
+    "artist_id": 18641,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\106\\106277.mp3"
+  },
+  {
+    "track_id": 106463,
+    "artist_id": 18665,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\106\\106463.mp3"
+  },
+  {
+    "track_id": 106465,
+    "artist_id": 18665,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\106\\106465.mp3"
+  },
+  {
+    "track_id": 106502,
+    "artist_id": 18673,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\106\\106502.mp3"
+  },
+  {
+    "track_id": 107178,
+    "artist_id": 18736,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\107\\107178.mp3"
+  },
+  {
+    "track_id": 107180,
+    "artist_id": 18736,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\107\\107180.mp3"
+  },
+  {
+    "track_id": 107181,
+    "artist_id": 18736,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\107\\107181.mp3"
+  },
+  {
+    "track_id": 107183,
+    "artist_id": 18736,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\107\\107183.mp3"
+  },
+  {
+    "track_id": 107184,
+    "artist_id": 18736,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\107\\107184.mp3"
+  },
+  {
+    "track_id": 107186,
+    "artist_id": 18736,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\107\\107186.mp3"
+  },
+  {
+    "track_id": 107187,
+    "artist_id": 18736,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\107\\107187.mp3"
+  },
+  {
+    "track_id": 107188,
+    "artist_id": 18736,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\107\\107188.mp3"
+  },
+  {
+    "track_id": 107189,
+    "artist_id": 18736,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\107\\107189.mp3"
+  },
+  {
+    "track_id": 108230,
+    "artist_id": 18838,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\108\\108230.mp3"
+  },
+  {
+    "track_id": 108290,
+    "artist_id": 16025,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\108\\108290.mp3"
+  },
+  {
+    "track_id": 108297,
+    "artist_id": 16025,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\108\\108297.mp3"
+  },
+  {
+    "track_id": 108298,
+    "artist_id": 16025,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\108\\108298.mp3"
+  },
+  {
+    "track_id": 108425,
+    "artist_id": 18870,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\108\\108425.mp3"
+  },
+  {
+    "track_id": 108426,
+    "artist_id": 18870,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\108\\108426.mp3"
+  },
+  {
+    "track_id": 108427,
+    "artist_id": 18870,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\108\\108427.mp3"
+  },
+  {
+    "track_id": 108428,
+    "artist_id": 18870,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\108\\108428.mp3"
+  },
+  {
+    "track_id": 108429,
+    "artist_id": 18870,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\108\\108429.mp3"
+  },
+  {
+    "track_id": 108456,
+    "artist_id": 18873,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\108\\108456.mp3"
+  },
+  {
+    "track_id": 108457,
+    "artist_id": 18873,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\108\\108457.mp3"
+  },
+  {
+    "track_id": 108459,
+    "artist_id": 18873,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\108\\108459.mp3"
+  },
+  {
+    "track_id": 108460,
+    "artist_id": 18873,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\108\\108460.mp3"
+  },
+  {
+    "track_id": 108461,
+    "artist_id": 18873,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\108\\108461.mp3"
+  },
+  {
+    "track_id": 108494,
+    "artist_id": 18880,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\108\\108494.mp3"
+  },
+  {
+    "track_id": 108502,
+    "artist_id": 17247,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\108\\108502.mp3"
+  },
+  {
+    "track_id": 108503,
+    "artist_id": 17247,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\108\\108503.mp3"
+  },
+  {
+    "track_id": 108906,
+    "artist_id": 18673,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\108\\108906.mp3"
+  },
+  {
+    "track_id": 109276,
+    "artist_id": 7663,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\109\\109276.mp3"
+  },
+  {
+    "track_id": 109349,
+    "artist_id": 17080,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\109\\109349.mp3"
+  },
+  {
+    "track_id": 109350,
+    "artist_id": 15300,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\109\\109350.mp3"
+  },
+  {
+    "track_id": 109355,
+    "artist_id": 15300,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\109\\109355.mp3"
+  },
+  {
+    "track_id": 109356,
+    "artist_id": 15300,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\109\\109356.mp3"
+  },
+  {
+    "track_id": 109357,
+    "artist_id": 15300,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\109\\109357.mp3"
+  },
+  {
+    "track_id": 110647,
+    "artist_id": 19096,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\110\\110647.mp3"
+  },
+  {
+    "track_id": 110648,
+    "artist_id": 19096,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\110\\110648.mp3"
+  },
+  {
+    "track_id": 110649,
+    "artist_id": 19096,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\110\\110649.mp3"
+  },
+  {
+    "track_id": 110650,
+    "artist_id": 19096,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\110\\110650.mp3"
+  },
+  {
+    "track_id": 110651,
+    "artist_id": 19096,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\110\\110651.mp3"
+  },
+  {
+    "track_id": 110652,
+    "artist_id": 19096,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\110\\110652.mp3"
+  },
+  {
+    "track_id": 110653,
+    "artist_id": 19096,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\110\\110653.mp3"
+  },
+  {
+    "track_id": 110654,
+    "artist_id": 19096,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\110\\110654.mp3"
+  },
+  {
+    "track_id": 111871,
+    "artist_id": 17984,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\111\\111871.mp3"
+  },
+  {
+    "track_id": 111872,
+    "artist_id": 17984,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\111\\111872.mp3"
+  },
+  {
+    "track_id": 111911,
+    "artist_id": 19198,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\111\\111911.mp3"
+  },
+  {
+    "track_id": 111934,
+    "artist_id": 19201,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\111\\111934.mp3"
+  },
+  {
+    "track_id": 111935,
+    "artist_id": 19201,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\111\\111935.mp3"
+  },
+  {
+    "track_id": 111936,
+    "artist_id": 19201,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\111\\111936.mp3"
+  },
+  {
+    "track_id": 111937,
+    "artist_id": 19201,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\111\\111937.mp3"
+  },
+  {
+    "track_id": 111938,
+    "artist_id": 19201,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\111\\111938.mp3"
+  },
+  {
+    "track_id": 111974,
+    "artist_id": 19211,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\111\\111974.mp3"
+  },
+  {
+    "track_id": 111994,
+    "artist_id": 19213,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\111\\111994.mp3"
+  },
+  {
+    "track_id": 112000,
+    "artist_id": 19213,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\112\\112000.mp3"
+  },
+  {
+    "track_id": 112001,
+    "artist_id": 19213,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\112\\112001.mp3"
+  },
+  {
+    "track_id": 112314,
+    "artist_id": 11018,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\112\\112314.mp3"
+  },
+  {
+    "track_id": 112315,
+    "artist_id": 11018,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\112\\112315.mp3"
+  },
+  {
+    "track_id": 112316,
+    "artist_id": 11018,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\112\\112316.mp3"
+  },
+  {
+    "track_id": 112317,
+    "artist_id": 11018,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\112\\112317.mp3"
+  },
+  {
+    "track_id": 112318,
+    "artist_id": 11018,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\112\\112318.mp3"
+  },
+  {
+    "track_id": 112490,
+    "artist_id": 19276,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\112\\112490.mp3"
+  },
+  {
+    "track_id": 112668,
+    "artist_id": 19268,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\112\\112668.mp3"
+  },
+  {
+    "track_id": 112733,
+    "artist_id": 19287,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\112\\112733.mp3"
+  },
+  {
+    "track_id": 112734,
+    "artist_id": 19287,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\112\\112734.mp3"
+  },
+  {
+    "track_id": 112735,
+    "artist_id": 19287,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\112\\112735.mp3"
+  },
+  {
+    "track_id": 112780,
+    "artist_id": 19268,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\112\\112780.mp3"
+  },
+  {
+    "track_id": 112781,
+    "artist_id": 19268,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\112\\112781.mp3"
+  },
+  {
+    "track_id": 112785,
+    "artist_id": 19268,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\112\\112785.mp3"
+  },
+  {
+    "track_id": 112788,
+    "artist_id": 19268,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\112\\112788.mp3"
+  },
+  {
+    "track_id": 112789,
+    "artist_id": 19268,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\112\\112789.mp3"
+  },
+  {
+    "track_id": 113063,
+    "artist_id": 17080,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\113\\113063.mp3"
+  },
+  {
+    "track_id": 113280,
+    "artist_id": 19377,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\113\\113280.mp3"
+  },
+  {
+    "track_id": 113453,
+    "artist_id": 19392,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\113\\113453.mp3"
+  },
+  {
+    "track_id": 113558,
+    "artist_id": 19411,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\113\\113558.mp3"
+  },
+  {
+    "track_id": 113822,
+    "artist_id": 19436,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\113\\113822.mp3"
+  },
+  {
+    "track_id": 113946,
+    "artist_id": 19451,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\113\\113946.mp3"
+  },
+  {
+    "track_id": 113949,
+    "artist_id": 19451,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\113\\113949.mp3"
+  },
+  {
+    "track_id": 113950,
+    "artist_id": 19451,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\113\\113950.mp3"
+  },
+  {
+    "track_id": 114265,
+    "artist_id": 18587,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\114\\114265.mp3"
+  },
+  {
+    "track_id": 114266,
+    "artist_id": 18587,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\114\\114266.mp3"
+  },
+  {
+    "track_id": 114268,
+    "artist_id": 18587,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\114\\114268.mp3"
+  },
+  {
+    "track_id": 114272,
+    "artist_id": 18587,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\114\\114272.mp3"
+  },
+  {
+    "track_id": 114274,
+    "artist_id": 18587,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\114\\114274.mp3"
+  },
+  {
+    "track_id": 114275,
+    "artist_id": 18587,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\114\\114275.mp3"
+  },
+  {
+    "track_id": 114386,
+    "artist_id": 19497,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\114\\114386.mp3"
+  },
+  {
+    "track_id": 115262,
+    "artist_id": 13021,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\115\\115262.mp3"
+  },
+  {
+    "track_id": 115263,
+    "artist_id": 13021,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\115\\115263.mp3"
+  },
+  {
+    "track_id": 115267,
+    "artist_id": 13021,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\115\\115267.mp3"
+  },
+  {
+    "track_id": 115268,
+    "artist_id": 13021,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\115\\115268.mp3"
+  },
+  {
+    "track_id": 115269,
+    "artist_id": 13021,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\115\\115269.mp3"
+  },
+  {
+    "track_id": 116237,
+    "artist_id": 19779,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\116\\116237.mp3"
+  },
+  {
+    "track_id": 116242,
+    "artist_id": 19782,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\116\\116242.mp3"
+  },
+  {
+    "track_id": 116383,
+    "artist_id": 9289,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\116\\116383.mp3"
+  },
+  {
+    "track_id": 116446,
+    "artist_id": 19810,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\116\\116446.mp3"
+  },
+  {
+    "track_id": 116447,
+    "artist_id": 19810,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\116\\116447.mp3"
+  },
+  {
+    "track_id": 116448,
+    "artist_id": 19810,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\116\\116448.mp3"
+  },
+  {
+    "track_id": 116449,
+    "artist_id": 19810,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\116\\116449.mp3"
+  },
+  {
+    "track_id": 116451,
+    "artist_id": 19810,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\116\\116451.mp3"
+  },
+  {
+    "track_id": 116452,
+    "artist_id": 19810,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\116\\116452.mp3"
+  },
+  {
+    "track_id": 116453,
+    "artist_id": 19810,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\116\\116453.mp3"
+  },
+  {
+    "track_id": 116454,
+    "artist_id": 19810,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\116\\116454.mp3"
+  },
+  {
+    "track_id": 116455,
+    "artist_id": 19810,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\116\\116455.mp3"
+  },
+  {
+    "track_id": 116456,
+    "artist_id": 19810,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\116\\116456.mp3"
+  },
+  {
+    "track_id": 116457,
+    "artist_id": 19810,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\116\\116457.mp3"
+  },
+  {
+    "track_id": 116458,
+    "artist_id": 19810,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\116\\116458.mp3"
+  },
+  {
+    "track_id": 116547,
+    "artist_id": 7410,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\116\\116547.mp3"
+  },
+  {
+    "track_id": 116549,
+    "artist_id": 13255,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\116\\116549.mp3"
+  },
+  {
+    "track_id": 116586,
+    "artist_id": 9289,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\116\\116586.mp3"
+  },
+  {
+    "track_id": 116587,
+    "artist_id": 9289,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\116\\116587.mp3"
+  },
+  {
+    "track_id": 116709,
+    "artist_id": 9289,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\116\\116709.mp3"
+  },
+  {
+    "track_id": 117057,
+    "artist_id": 9289,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\117\\117057.mp3"
+  },
+  {
+    "track_id": 117942,
+    "artist_id": 5303,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\117\\117942.mp3"
+  },
+  {
+    "track_id": 117943,
+    "artist_id": 5507,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\117\\117943.mp3"
+  },
+  {
+    "track_id": 118000,
+    "artist_id": 16884,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\118\\118000.mp3"
+  },
+  {
+    "track_id": 118068,
+    "artist_id": 15891,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\118\\118068.mp3"
+  },
+  {
+    "track_id": 118484,
+    "artist_id": 20000,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\118\\118484.mp3"
+  },
+  {
+    "track_id": 118502,
+    "artist_id": 20019,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\118\\118502.mp3"
+  },
+  {
+    "track_id": 118504,
+    "artist_id": 20001,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\118\\118504.mp3"
+  },
+  {
+    "track_id": 118618,
+    "artist_id": 18673,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\118\\118618.mp3"
+  },
+  {
+    "track_id": 118957,
+    "artist_id": 19268,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\118\\118957.mp3"
+  },
+  {
+    "track_id": 118958,
+    "artist_id": 19268,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\118\\118958.mp3"
+  },
+  {
+    "track_id": 118972,
+    "artist_id": 19268,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\118\\118972.mp3"
+  },
+  {
+    "track_id": 119985,
+    "artist_id": 20156,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\119\\119985.mp3"
+  },
+  {
+    "track_id": 119988,
+    "artist_id": 20156,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\119\\119988.mp3"
+  },
+  {
+    "track_id": 119991,
+    "artist_id": 20156,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\119\\119991.mp3"
+  },
+  {
+    "track_id": 119992,
+    "artist_id": 20156,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\119\\119992.mp3"
+  },
+  {
+    "track_id": 119993,
+    "artist_id": 20156,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\119\\119993.mp3"
+  },
+  {
+    "track_id": 119994,
+    "artist_id": 20156,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\119\\119994.mp3"
+  },
+  {
+    "track_id": 120150,
+    "artist_id": 20188,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\120\\120150.mp3"
+  },
+  {
+    "track_id": 120160,
+    "artist_id": 20196,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\120\\120160.mp3"
+  },
+  {
+    "track_id": 120201,
+    "artist_id": 20204,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\120\\120201.mp3"
+  },
+  {
+    "track_id": 120207,
+    "artist_id": 1764,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\120\\120207.mp3"
+  },
+  {
+    "track_id": 120462,
+    "artist_id": 20146,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\120\\120462.mp3"
+  },
+  {
+    "track_id": 120466,
+    "artist_id": 20146,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\120\\120466.mp3"
+  },
+  {
+    "track_id": 120467,
+    "artist_id": 20146,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\120\\120467.mp3"
+  },
+  {
+    "track_id": 120468,
+    "artist_id": 20146,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\120\\120468.mp3"
+  },
+  {
+    "track_id": 120469,
+    "artist_id": 20146,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\120\\120469.mp3"
+  },
+  {
+    "track_id": 120470,
+    "artist_id": 20146,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\120\\120470.mp3"
+  },
+  {
+    "track_id": 120471,
+    "artist_id": 20146,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\120\\120471.mp3"
+  },
+  {
+    "track_id": 120779,
+    "artist_id": 19948,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\120\\120779.mp3"
+  },
+  {
+    "track_id": 120782,
+    "artist_id": 19948,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\120\\120782.mp3"
+  },
+  {
+    "track_id": 121346,
+    "artist_id": 19268,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\121\\121346.mp3"
+  },
+  {
+    "track_id": 121366,
+    "artist_id": 20308,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\121\\121366.mp3"
+  },
+  {
+    "track_id": 121651,
+    "artist_id": 11939,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\121\\121651.mp3"
+  },
+  {
+    "track_id": 121652,
+    "artist_id": 11939,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\121\\121652.mp3"
+  },
+  {
+    "track_id": 121653,
+    "artist_id": 11939,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\121\\121653.mp3"
+  },
+  {
+    "track_id": 121654,
+    "artist_id": 11939,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\121\\121654.mp3"
+  },
+  {
+    "track_id": 121655,
+    "artist_id": 11939,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\121\\121655.mp3"
+  },
+  {
+    "track_id": 121656,
+    "artist_id": 11939,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\121\\121656.mp3"
+  },
+  {
+    "track_id": 121657,
+    "artist_id": 11939,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\121\\121657.mp3"
+  },
+  {
+    "track_id": 121658,
+    "artist_id": 11939,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\121\\121658.mp3"
+  },
+  {
+    "track_id": 121659,
+    "artist_id": 11939,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\121\\121659.mp3"
+  },
+  {
+    "track_id": 121660,
+    "artist_id": 11939,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\121\\121660.mp3"
+  },
+  {
+    "track_id": 121661,
+    "artist_id": 11939,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\121\\121661.mp3"
+  },
+  {
+    "track_id": 121662,
+    "artist_id": 11939,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\121\\121662.mp3"
+  },
+  {
+    "track_id": 121663,
+    "artist_id": 11939,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\121\\121663.mp3"
+  },
+  {
+    "track_id": 121664,
+    "artist_id": 11939,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\121\\121664.mp3"
+  },
+  {
+    "track_id": 121665,
+    "artist_id": 11939,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\121\\121665.mp3"
+  },
+  {
+    "track_id": 121666,
+    "artist_id": 11939,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\121\\121666.mp3"
+  },
+  {
+    "track_id": 121813,
+    "artist_id": 20354,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\121\\121813.mp3"
+  },
+  {
+    "track_id": 121998,
+    "artist_id": 20387,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\121\\121998.mp3"
+  },
+  {
+    "track_id": 122066,
+    "artist_id": 13262,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\122\\122066.mp3"
+  },
+  {
+    "track_id": 122077,
+    "artist_id": 13262,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\122\\122077.mp3"
+  },
+  {
+    "track_id": 122079,
+    "artist_id": 13262,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\122\\122079.mp3"
+  },
+  {
+    "track_id": 122080,
+    "artist_id": 13262,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\122\\122080.mp3"
+  },
+  {
+    "track_id": 122081,
+    "artist_id": 13262,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\122\\122081.mp3"
+  },
+  {
+    "track_id": 122082,
+    "artist_id": 13262,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\122\\122082.mp3"
+  },
+  {
+    "track_id": 122083,
+    "artist_id": 13262,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\122\\122083.mp3"
+  },
+  {
+    "track_id": 122084,
+    "artist_id": 13262,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\122\\122084.mp3"
+  },
+  {
+    "track_id": 122085,
+    "artist_id": 13262,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\122\\122085.mp3"
+  },
+  {
+    "track_id": 122086,
+    "artist_id": 13262,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\122\\122086.mp3"
+  },
+  {
+    "track_id": 122087,
+    "artist_id": 13262,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\122\\122087.mp3"
+  },
+  {
+    "track_id": 122088,
+    "artist_id": 13262,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\122\\122088.mp3"
+  },
+  {
+    "track_id": 122106,
+    "artist_id": 20418,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\122\\122106.mp3"
+  },
+  {
+    "track_id": 122107,
+    "artist_id": 20418,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\122\\122107.mp3"
+  },
+  {
+    "track_id": 122132,
+    "artist_id": 20421,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\122\\122132.mp3"
+  },
+  {
+    "track_id": 122247,
+    "artist_id": 19268,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\122\\122247.mp3"
+  },
+  {
+    "track_id": 122395,
+    "artist_id": 20481,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\122\\122395.mp3"
+  },
+  {
+    "track_id": 122397,
+    "artist_id": 20481,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\122\\122397.mp3"
+  },
+  {
+    "track_id": 122398,
+    "artist_id": 20481,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\122\\122398.mp3"
+  },
+  {
+    "track_id": 122399,
+    "artist_id": 20481,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\122\\122399.mp3"
+  },
+  {
+    "track_id": 122400,
+    "artist_id": 20481,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\122\\122400.mp3"
+  },
+  {
+    "track_id": 122500,
+    "artist_id": 8064,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\122\\122500.mp3"
+  },
+  {
+    "track_id": 122533,
+    "artist_id": 8065,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\122\\122533.mp3"
+  },
+  {
+    "track_id": 122910,
+    "artist_id": 19268,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\122\\122910.mp3"
+  },
+  {
+    "track_id": 123614,
+    "artist_id": 20156,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\123\\123614.mp3"
+  },
+  {
+    "track_id": 123647,
+    "artist_id": 14456,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\123\\123647.mp3"
+  },
+  {
+    "track_id": 123825,
+    "artist_id": 20691,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\123\\123825.mp3"
+  },
+  {
+    "track_id": 123832,
+    "artist_id": 20691,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\123\\123832.mp3"
+  },
+  {
+    "track_id": 123834,
+    "artist_id": 20691,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\123\\123834.mp3"
+  },
+  {
+    "track_id": 123835,
+    "artist_id": 20691,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\123\\123835.mp3"
+  },
+  {
+    "track_id": 123981,
+    "artist_id": 20709,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\123\\123981.mp3"
+  },
+  {
+    "track_id": 123986,
+    "artist_id": 20709,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\123\\123986.mp3"
+  },
+  {
+    "track_id": 124154,
+    "artist_id": 15891,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\124\\124154.mp3"
+  },
+  {
+    "track_id": 124231,
+    "artist_id": 19268,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\124\\124231.mp3"
+  },
+  {
+    "track_id": 124409,
+    "artist_id": 11912,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\124\\124409.mp3"
+  },
+  {
+    "track_id": 124411,
+    "artist_id": 11912,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\124\\124411.mp3"
+  },
+  {
+    "track_id": 124424,
+    "artist_id": 20779,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\124\\124424.mp3"
+  },
+  {
+    "track_id": 124425,
+    "artist_id": 20779,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\124\\124425.mp3"
+  },
+  {
+    "track_id": 124426,
+    "artist_id": 20779,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\124\\124426.mp3"
+  },
+  {
+    "track_id": 124971,
+    "artist_id": 19268,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\124\\124971.mp3"
+  },
+  {
+    "track_id": 124992,
+    "artist_id": 12676,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\124\\124992.mp3"
+  },
+  {
+    "track_id": 124996,
+    "artist_id": 12676,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\124\\124996.mp3"
+  },
+  {
+    "track_id": 125001,
+    "artist_id": 12676,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\125\\125001.mp3"
+  },
+  {
+    "track_id": 125002,
+    "artist_id": 12676,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\125\\125002.mp3"
+  },
+  {
+    "track_id": 125003,
+    "artist_id": 12676,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\125\\125003.mp3"
+  },
+  {
+    "track_id": 125004,
+    "artist_id": 12676,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\125\\125004.mp3"
+  },
+  {
+    "track_id": 125182,
+    "artist_id": 9765,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\125\\125182.mp3"
+  },
+  {
+    "track_id": 125183,
+    "artist_id": 9765,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\125\\125183.mp3"
+  },
+  {
+    "track_id": 125185,
+    "artist_id": 9765,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\125\\125185.mp3"
+  },
+  {
+    "track_id": 125186,
+    "artist_id": 9765,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\125\\125186.mp3"
+  },
+  {
+    "track_id": 125187,
+    "artist_id": 9765,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\125\\125187.mp3"
+  },
+  {
+    "track_id": 125188,
+    "artist_id": 9765,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\125\\125188.mp3"
+  },
+  {
+    "track_id": 125189,
+    "artist_id": 9765,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\125\\125189.mp3"
+  },
+  {
+    "track_id": 125190,
+    "artist_id": 9765,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\125\\125190.mp3"
+  },
+  {
+    "track_id": 125191,
+    "artist_id": 9765,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\125\\125191.mp3"
+  },
+  {
+    "track_id": 125192,
+    "artist_id": 9765,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\125\\125192.mp3"
+  },
+  {
+    "track_id": 125193,
+    "artist_id": 9765,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\125\\125193.mp3"
+  },
+  {
+    "track_id": 125194,
+    "artist_id": 9765,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\125\\125194.mp3"
+  },
+  {
+    "track_id": 125195,
+    "artist_id": 9765,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\125\\125195.mp3"
+  },
+  {
+    "track_id": 125196,
+    "artist_id": 9765,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\125\\125196.mp3"
+  },
+  {
+    "track_id": 125287,
+    "artist_id": 20864,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\125\\125287.mp3"
+  },
+  {
+    "track_id": 125551,
+    "artist_id": 20913,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\125\\125551.mp3"
+  },
+  {
+    "track_id": 126455,
+    "artist_id": 21001,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\126\\126455.mp3"
+  },
+  {
+    "track_id": 126507,
+    "artist_id": 16340,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\126\\126507.mp3"
+  },
+  {
+    "track_id": 126512,
+    "artist_id": 21009,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\126\\126512.mp3"
+  },
+  {
+    "track_id": 126522,
+    "artist_id": 9289,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\126\\126522.mp3"
+  },
+  {
+    "track_id": 126646,
+    "artist_id": 18673,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\126\\126646.mp3"
+  },
+  {
+    "track_id": 126743,
+    "artist_id": 9765,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\126\\126743.mp3"
+  },
+  {
+    "track_id": 126746,
+    "artist_id": 9765,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\126\\126746.mp3"
+  },
+  {
+    "track_id": 126747,
+    "artist_id": 9765,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\126\\126747.mp3"
+  },
+  {
+    "track_id": 126748,
+    "artist_id": 9765,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\126\\126748.mp3"
+  },
+  {
+    "track_id": 126749,
+    "artist_id": 9765,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\126\\126749.mp3"
+  },
+  {
+    "track_id": 126899,
+    "artist_id": 20146,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\126\\126899.mp3"
+  },
+  {
+    "track_id": 126900,
+    "artist_id": 20146,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\126\\126900.mp3"
+  },
+  {
+    "track_id": 127339,
+    "artist_id": 7410,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\127\\127339.mp3"
+  },
+  {
+    "track_id": 127356,
+    "artist_id": 21089,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\127\\127356.mp3"
+  },
+  {
+    "track_id": 127357,
+    "artist_id": 21089,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\127\\127357.mp3"
+  },
+  {
+    "track_id": 127798,
+    "artist_id": 19268,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\127\\127798.mp3"
+  },
+  {
+    "track_id": 128500,
+    "artist_id": 10341,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\128\\128500.mp3"
+  },
+  {
+    "track_id": 128835,
+    "artist_id": 9289,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\128\\128835.mp3"
+  },
+  {
+    "track_id": 128845,
+    "artist_id": 9289,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\128\\128845.mp3"
+  },
+  {
+    "track_id": 129048,
+    "artist_id": 21268,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\129\\129048.mp3"
+  },
+  {
+    "track_id": 129049,
+    "artist_id": 21268,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\129\\129049.mp3"
+  },
+  {
+    "track_id": 129051,
+    "artist_id": 21268,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\129\\129051.mp3"
+  },
+  {
+    "track_id": 129052,
+    "artist_id": 21268,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\129\\129052.mp3"
+  },
+  {
+    "track_id": 129053,
+    "artist_id": 21268,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\129\\129053.mp3"
+  },
+  {
+    "track_id": 129054,
+    "artist_id": 21268,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\129\\129054.mp3"
+  },
+  {
+    "track_id": 129055,
+    "artist_id": 21268,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\129\\129055.mp3"
+  },
+  {
+    "track_id": 129056,
+    "artist_id": 21268,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\129\\129056.mp3"
+  },
+  {
+    "track_id": 129088,
+    "artist_id": 1860,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\129\\129088.mp3"
+  },
+  {
+    "track_id": 129089,
+    "artist_id": 1860,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\129\\129089.mp3"
+  },
+  {
+    "track_id": 129090,
+    "artist_id": 1860,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\129\\129090.mp3"
+  },
+  {
+    "track_id": 129091,
+    "artist_id": 1860,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\129\\129091.mp3"
+  },
+  {
+    "track_id": 129092,
+    "artist_id": 1860,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\129\\129092.mp3"
+  },
+  {
+    "track_id": 129093,
+    "artist_id": 1860,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\129\\129093.mp3"
+  },
+  {
+    "track_id": 129094,
+    "artist_id": 1860,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\129\\129094.mp3"
+  },
+  {
+    "track_id": 129095,
+    "artist_id": 1860,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\129\\129095.mp3"
+  },
+  {
+    "track_id": 129096,
+    "artist_id": 1860,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\129\\129096.mp3"
+  },
+  {
+    "track_id": 129097,
+    "artist_id": 1860,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\129\\129097.mp3"
+  },
+  {
+    "track_id": 129098,
+    "artist_id": 1860,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\129\\129098.mp3"
+  },
+  {
+    "track_id": 129439,
+    "artist_id": 21300,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\129\\129439.mp3"
+  },
+  {
+    "track_id": 129442,
+    "artist_id": 21300,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\129\\129442.mp3"
+  },
+  {
+    "track_id": 129444,
+    "artist_id": 21300,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\129\\129444.mp3"
+  },
+  {
+    "track_id": 129683,
+    "artist_id": 9765,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\129\\129683.mp3"
+  },
+  {
+    "track_id": 129694,
+    "artist_id": 9765,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\129\\129694.mp3"
+  },
+  {
+    "track_id": 129695,
+    "artist_id": 9765,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\129\\129695.mp3"
+  },
+  {
+    "track_id": 129696,
+    "artist_id": 9765,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\129\\129696.mp3"
+  },
+  {
+    "track_id": 129806,
+    "artist_id": 21393,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\129\\129806.mp3"
+  },
+  {
+    "track_id": 129807,
+    "artist_id": 21393,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\129\\129807.mp3"
+  },
+  {
+    "track_id": 129808,
+    "artist_id": 21393,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\129\\129808.mp3"
+  },
+  {
+    "track_id": 129962,
+    "artist_id": 19164,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\129\\129962.mp3"
+  },
+  {
+    "track_id": 129968,
+    "artist_id": 19164,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\129\\129968.mp3"
+  },
+  {
+    "track_id": 129969,
+    "artist_id": 19164,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\129\\129969.mp3"
+  },
+  {
+    "track_id": 129970,
+    "artist_id": 19164,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\129\\129970.mp3"
+  },
+  {
+    "track_id": 129972,
+    "artist_id": 19164,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\129\\129972.mp3"
+  },
+  {
+    "track_id": 129973,
+    "artist_id": 19164,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\129\\129973.mp3"
+  },
+  {
+    "track_id": 130016,
+    "artist_id": 19198,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\130\\130016.mp3"
+  },
+  {
+    "track_id": 130367,
+    "artist_id": 21497,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\130\\130367.mp3"
+  },
+  {
+    "track_id": 130368,
+    "artist_id": 21497,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\130\\130368.mp3"
+  },
+  {
+    "track_id": 130369,
+    "artist_id": 21497,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\130\\130369.mp3"
+  },
+  {
+    "track_id": 130370,
+    "artist_id": 21497,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\130\\130370.mp3"
+  },
+  {
+    "track_id": 130371,
+    "artist_id": 21497,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\130\\130371.mp3"
+  },
+  {
+    "track_id": 130372,
+    "artist_id": 21497,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\130\\130372.mp3"
+  },
+  {
+    "track_id": 130440,
+    "artist_id": 21503,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\130\\130440.mp3"
+  },
+  {
+    "track_id": 130454,
+    "artist_id": 21503,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\130\\130454.mp3"
+  },
+  {
+    "track_id": 130456,
+    "artist_id": 21503,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\130\\130456.mp3"
+  },
+  {
+    "track_id": 130682,
+    "artist_id": 19741,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\130\\130682.mp3"
+  },
+  {
+    "track_id": 130683,
+    "artist_id": 19741,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\130\\130683.mp3"
+  },
+  {
+    "track_id": 130986,
+    "artist_id": 9289,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\130\\130986.mp3"
+  },
+  {
+    "track_id": 131016,
+    "artist_id": 21503,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\131\\131016.mp3"
+  },
+  {
+    "track_id": 131019,
+    "artist_id": 21503,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\131\\131019.mp3"
+  },
+  {
+    "track_id": 131020,
+    "artist_id": 21503,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\131\\131020.mp3"
+  },
+  {
+    "track_id": 131021,
+    "artist_id": 21503,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\131\\131021.mp3"
+  },
+  {
+    "track_id": 131385,
+    "artist_id": 19268,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\131\\131385.mp3"
+  },
+  {
+    "track_id": 131410,
+    "artist_id": 10184,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\131\\131410.mp3"
+  },
+  {
+    "track_id": 131624,
+    "artist_id": 19268,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\131\\131624.mp3"
+  },
+  {
+    "track_id": 131764,
+    "artist_id": 21598,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\131\\131764.mp3"
+  },
+  {
+    "track_id": 131767,
+    "artist_id": 21598,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\131\\131767.mp3"
+  },
+  {
+    "track_id": 131770,
+    "artist_id": 21598,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\131\\131770.mp3"
+  },
+  {
+    "track_id": 131771,
+    "artist_id": 21598,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\131\\131771.mp3"
+  },
+  {
+    "track_id": 131772,
+    "artist_id": 21598,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\131\\131772.mp3"
+  },
+  {
+    "track_id": 131773,
+    "artist_id": 21598,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\131\\131773.mp3"
+  },
+  {
+    "track_id": 131774,
+    "artist_id": 21598,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\131\\131774.mp3"
+  },
+  {
+    "track_id": 131837,
+    "artist_id": 18673,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\131\\131837.mp3"
+  },
+  {
+    "track_id": 132118,
+    "artist_id": 21645,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\132\\132118.mp3"
+  },
+  {
+    "track_id": 132448,
+    "artist_id": 21691,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\132\\132448.mp3"
+  },
+  {
+    "track_id": 132589,
+    "artist_id": 21725,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\132\\132589.mp3"
+  },
+  {
+    "track_id": 132914,
+    "artist_id": 21754,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\132\\132914.mp3"
+  },
+  {
+    "track_id": 133015,
+    "artist_id": 20146,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\133\\133015.mp3"
+  },
+  {
+    "track_id": 133016,
+    "artist_id": 20146,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\133\\133016.mp3"
+  },
+  {
+    "track_id": 133019,
+    "artist_id": 20146,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\133\\133019.mp3"
+  },
+  {
+    "track_id": 133020,
+    "artist_id": 20146,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\133\\133020.mp3"
+  },
+  {
+    "track_id": 133022,
+    "artist_id": 20146,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\133\\133022.mp3"
+  },
+  {
+    "track_id": 133023,
+    "artist_id": 20146,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\133\\133023.mp3"
+  },
+  {
+    "track_id": 133024,
+    "artist_id": 20146,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\133\\133024.mp3"
+  },
+  {
+    "track_id": 133025,
+    "artist_id": 20146,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\133\\133025.mp3"
+  },
+  {
+    "track_id": 133026,
+    "artist_id": 20146,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\133\\133026.mp3"
+  },
+  {
+    "track_id": 133027,
+    "artist_id": 20146,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\133\\133027.mp3"
+  },
+  {
+    "track_id": 133028,
+    "artist_id": 20146,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\133\\133028.mp3"
+  },
+  {
+    "track_id": 133029,
+    "artist_id": 20146,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\133\\133029.mp3"
+  },
+  {
+    "track_id": 133632,
+    "artist_id": 21812,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\133\\133632.mp3"
+  },
+  {
+    "track_id": 133770,
+    "artist_id": 19268,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\133\\133770.mp3"
+  },
+  {
+    "track_id": 133942,
+    "artist_id": 21597,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\133\\133942.mp3"
+  },
+  {
+    "track_id": 133943,
+    "artist_id": 21597,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\133\\133943.mp3"
+  },
+  {
+    "track_id": 133967,
+    "artist_id": 21858,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\133\\133967.mp3"
+  },
+  {
+    "track_id": 133968,
+    "artist_id": 21858,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\133\\133968.mp3"
+  },
+  {
+    "track_id": 133969,
+    "artist_id": 21858,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\133\\133969.mp3"
+  },
+  {
+    "track_id": 133970,
+    "artist_id": 21858,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\133\\133970.mp3"
+  },
+  {
+    "track_id": 133971,
+    "artist_id": 21858,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\133\\133971.mp3"
+  },
+  {
+    "track_id": 133972,
+    "artist_id": 21858,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\133\\133972.mp3"
+  },
+  {
+    "track_id": 133973,
+    "artist_id": 21858,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\133\\133973.mp3"
+  },
+  {
+    "track_id": 133974,
+    "artist_id": 21858,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\133\\133974.mp3"
+  },
+  {
+    "track_id": 133975,
+    "artist_id": 21858,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\133\\133975.mp3"
+  },
+  {
+    "track_id": 133976,
+    "artist_id": 21858,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\133\\133976.mp3"
+  },
+  {
+    "track_id": 133977,
+    "artist_id": 21858,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\133\\133977.mp3"
+  },
+  {
+    "track_id": 133978,
+    "artist_id": 21858,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\133\\133978.mp3"
+  },
+  {
+    "track_id": 134052,
+    "artist_id": 13262,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\134\\134052.mp3"
+  },
+  {
+    "track_id": 134053,
+    "artist_id": 13262,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\134\\134053.mp3"
+  },
+  {
+    "track_id": 134054,
+    "artist_id": 13262,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\134\\134054.mp3"
+  },
+  {
+    "track_id": 134643,
+    "artist_id": 19268,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\134\\134643.mp3"
+  },
+  {
+    "track_id": 134823,
+    "artist_id": 14456,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\134\\134823.mp3"
+  },
+  {
+    "track_id": 134824,
+    "artist_id": 14456,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\134\\134824.mp3"
+  },
+  {
+    "track_id": 135986,
+    "artist_id": 22001,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\135\\135986.mp3"
+  },
+  {
+    "track_id": 135989,
+    "artist_id": 22001,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\135\\135989.mp3"
+  },
+  {
+    "track_id": 135990,
+    "artist_id": 22001,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\135\\135990.mp3"
+  },
+  {
+    "track_id": 136091,
+    "artist_id": 22020,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\136\\136091.mp3"
+  },
+  {
+    "track_id": 136094,
+    "artist_id": 22020,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\136\\136094.mp3"
+  },
+  {
+    "track_id": 136331,
+    "artist_id": 16852,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\136\\136331.mp3"
+  },
+  {
+    "track_id": 136404,
+    "artist_id": 22051,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\136\\136404.mp3"
+  },
+  {
+    "track_id": 136465,
+    "artist_id": 14456,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\136\\136465.mp3"
+  },
+  {
+    "track_id": 136466,
+    "artist_id": 14456,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\136\\136466.mp3"
+  },
+  {
+    "track_id": 136467,
+    "artist_id": 14456,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\136\\136467.mp3"
+  },
+  {
+    "track_id": 136468,
+    "artist_id": 14456,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\136\\136468.mp3"
+  },
+  {
+    "track_id": 136469,
+    "artist_id": 14456,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\136\\136469.mp3"
+  },
+  {
+    "track_id": 137054,
+    "artist_id": 22121,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\137\\137054.mp3"
+  },
+  {
+    "track_id": 137211,
+    "artist_id": 22128,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\137\\137211.mp3"
+  },
+  {
+    "track_id": 137212,
+    "artist_id": 22128,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\137\\137212.mp3"
+  },
+  {
+    "track_id": 137213,
+    "artist_id": 22128,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\137\\137213.mp3"
+  },
+  {
+    "track_id": 137214,
+    "artist_id": 22128,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\137\\137214.mp3"
+  },
+  {
+    "track_id": 137462,
+    "artist_id": 22127,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\137\\137462.mp3"
+  },
+  {
+    "track_id": 137463,
+    "artist_id": 22127,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\137\\137463.mp3"
+  },
+  {
+    "track_id": 137500,
+    "artist_id": 19268,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\137\\137500.mp3"
+  },
+  {
+    "track_id": 137561,
+    "artist_id": 22176,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\137\\137561.mp3"
+  },
+  {
+    "track_id": 137567,
+    "artist_id": 22158,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\137\\137567.mp3"
+  },
+  {
+    "track_id": 137715,
+    "artist_id": 1860,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\137\\137715.mp3"
+  },
+  {
+    "track_id": 137716,
+    "artist_id": 1860,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\137\\137716.mp3"
+  },
+  {
+    "track_id": 137717,
+    "artist_id": 1860,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\137\\137717.mp3"
+  },
+  {
+    "track_id": 137719,
+    "artist_id": 1860,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\137\\137719.mp3"
+  },
+  {
+    "track_id": 137720,
+    "artist_id": 1860,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\137\\137720.mp3"
+  },
+  {
+    "track_id": 137721,
+    "artist_id": 1860,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\137\\137721.mp3"
+  },
+  {
+    "track_id": 137722,
+    "artist_id": 1860,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\137\\137722.mp3"
+  },
+  {
+    "track_id": 137723,
+    "artist_id": 1860,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\137\\137723.mp3"
+  },
+  {
+    "track_id": 137724,
+    "artist_id": 1860,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\137\\137724.mp3"
+  },
+  {
+    "track_id": 137725,
+    "artist_id": 1860,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\137\\137725.mp3"
+  },
+  {
+    "track_id": 137895,
+    "artist_id": 14456,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\137\\137895.mp3"
+  },
+  {
+    "track_id": 137896,
+    "artist_id": 14456,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\137\\137896.mp3"
+  },
+  {
+    "track_id": 137898,
+    "artist_id": 14456,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\137\\137898.mp3"
+  },
+  {
+    "track_id": 137899,
+    "artist_id": 14456,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\137\\137899.mp3"
+  },
+  {
+    "track_id": 137900,
+    "artist_id": 14456,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\137\\137900.mp3"
+  },
+  {
+    "track_id": 137901,
+    "artist_id": 14456,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\137\\137901.mp3"
+  },
+  {
+    "track_id": 138015,
+    "artist_id": 22216,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\138\\138015.mp3"
+  },
+  {
+    "track_id": 138016,
+    "artist_id": 22216,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\138\\138016.mp3"
+  },
+  {
+    "track_id": 138017,
+    "artist_id": 22216,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\138\\138017.mp3"
+  },
+  {
+    "track_id": 138212,
+    "artist_id": 14456,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\138\\138212.mp3"
+  },
+  {
+    "track_id": 138213,
+    "artist_id": 14456,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\138\\138213.mp3"
+  },
+  {
+    "track_id": 138215,
+    "artist_id": 14456,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\138\\138215.mp3"
+  },
+  {
+    "track_id": 138216,
+    "artist_id": 14456,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\138\\138216.mp3"
+  },
+  {
+    "track_id": 138217,
+    "artist_id": 14456,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\138\\138217.mp3"
+  },
+  {
+    "track_id": 138218,
+    "artist_id": 14456,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\138\\138218.mp3"
+  },
+  {
+    "track_id": 138406,
+    "artist_id": 9765,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\138\\138406.mp3"
+  },
+  {
+    "track_id": 138410,
+    "artist_id": 9765,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\138\\138410.mp3"
+  },
+  {
+    "track_id": 138413,
+    "artist_id": 9765,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\138\\138413.mp3"
+  },
+  {
+    "track_id": 138414,
+    "artist_id": 9765,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\138\\138414.mp3"
+  },
+  {
+    "track_id": 138415,
+    "artist_id": 9765,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\138\\138415.mp3"
+  },
+  {
+    "track_id": 138416,
+    "artist_id": 9765,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\138\\138416.mp3"
+  },
+  {
+    "track_id": 139003,
+    "artist_id": 16852,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\139\\139003.mp3"
+  },
+  {
+    "track_id": 139461,
+    "artist_id": 22355,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\139\\139461.mp3"
+  },
+  {
+    "track_id": 139663,
+    "artist_id": 19268,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\139\\139663.mp3"
+  },
+  {
+    "track_id": 140258,
+    "artist_id": 22431,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\140\\140258.mp3"
+  },
+  {
+    "track_id": 140259,
+    "artist_id": 22431,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\140\\140259.mp3"
+  },
+  {
+    "track_id": 140260,
+    "artist_id": 22431,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\140\\140260.mp3"
+  },
+  {
+    "track_id": 140261,
+    "artist_id": 22431,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\140\\140261.mp3"
+  },
+  {
+    "track_id": 140262,
+    "artist_id": 22431,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\140\\140262.mp3"
+  },
+  {
+    "track_id": 140263,
+    "artist_id": 22431,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\140\\140263.mp3"
+  },
+  {
+    "track_id": 140922,
+    "artist_id": 21691,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\140\\140922.mp3"
+  },
+  {
+    "track_id": 140923,
+    "artist_id": 21691,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\140\\140923.mp3"
+  },
+  {
+    "track_id": 140924,
+    "artist_id": 21691,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\140\\140924.mp3"
+  },
+  {
+    "track_id": 140925,
+    "artist_id": 21691,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\140\\140925.mp3"
+  },
+  {
+    "track_id": 140926,
+    "artist_id": 21691,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\140\\140926.mp3"
+  },
+  {
+    "track_id": 140933,
+    "artist_id": 21691,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\140\\140933.mp3"
+  },
+  {
+    "track_id": 140934,
+    "artist_id": 21691,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\140\\140934.mp3"
+  },
+  {
+    "track_id": 141901,
+    "artist_id": 22090,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\141\\141901.mp3"
+  },
+  {
+    "track_id": 141902,
+    "artist_id": 22090,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\141\\141902.mp3"
+  },
+  {
+    "track_id": 141903,
+    "artist_id": 22090,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\141\\141903.mp3"
+  },
+  {
+    "track_id": 142128,
+    "artist_id": 14462,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\142\\142128.mp3"
+  },
+  {
+    "track_id": 142549,
+    "artist_id": 22682,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\142\\142549.mp3"
+  },
+  {
+    "track_id": 142550,
+    "artist_id": 22682,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\142\\142550.mp3"
+  },
+  {
+    "track_id": 142551,
+    "artist_id": 22682,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\142\\142551.mp3"
+  },
+  {
+    "track_id": 142552,
+    "artist_id": 22682,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\142\\142552.mp3"
+  },
+  {
+    "track_id": 142553,
+    "artist_id": 22682,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\142\\142553.mp3"
+  },
+  {
+    "track_id": 142563,
+    "artist_id": 22683,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\142\\142563.mp3"
+  },
+  {
+    "track_id": 142577,
+    "artist_id": 22686,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\142\\142577.mp3"
+  },
+  {
+    "track_id": 142579,
+    "artist_id": 22686,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\142\\142579.mp3"
+  },
+  {
+    "track_id": 143095,
+    "artist_id": 12802,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\143\\143095.mp3"
+  },
+  {
+    "track_id": 143097,
+    "artist_id": 12802,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\143\\143097.mp3"
+  },
+  {
+    "track_id": 143098,
+    "artist_id": 12802,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\143\\143098.mp3"
+  },
+  {
+    "track_id": 143099,
+    "artist_id": 12802,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\143\\143099.mp3"
+  },
+  {
+    "track_id": 143237,
+    "artist_id": 22090,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\143\\143237.mp3"
+  },
+  {
+    "track_id": 143532,
+    "artist_id": 22127,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\143\\143532.mp3"
+  },
+  {
+    "track_id": 144487,
+    "artist_id": 22994,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\144\\144487.mp3"
+  },
+  {
+    "track_id": 144492,
+    "artist_id": 22994,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\144\\144492.mp3"
+  },
+  {
+    "track_id": 144587,
+    "artist_id": 22090,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\144\\144587.mp3"
+  },
+  {
+    "track_id": 144592,
+    "artist_id": 23004,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\144\\144592.mp3"
+  },
+  {
+    "track_id": 144809,
+    "artist_id": 15891,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\144\\144809.mp3"
+  },
+  {
+    "track_id": 144810,
+    "artist_id": 15891,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\144\\144810.mp3"
+  },
+  {
+    "track_id": 145020,
+    "artist_id": 23111,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\145\\145020.mp3"
+  },
+  {
+    "track_id": 145027,
+    "artist_id": 23111,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\145\\145027.mp3"
+  },
+  {
+    "track_id": 145058,
+    "artist_id": 23113,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\145\\145058.mp3"
+  },
+  {
+    "track_id": 145199,
+    "artist_id": 23145,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\145\\145199.mp3"
+  },
+  {
+    "track_id": 145431,
+    "artist_id": 18673,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\145\\145431.mp3"
+  },
+  {
+    "track_id": 145432,
+    "artist_id": 18673,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\145\\145432.mp3"
+  },
+  {
+    "track_id": 145550,
+    "artist_id": 23195,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\145\\145550.mp3"
+  },
+  {
+    "track_id": 145551,
+    "artist_id": 23195,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\145\\145551.mp3"
+  },
+  {
+    "track_id": 145552,
+    "artist_id": 23195,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\145\\145552.mp3"
+  },
+  {
+    "track_id": 145553,
+    "artist_id": 23195,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\145\\145553.mp3"
+  },
+  {
+    "track_id": 145554,
+    "artist_id": 23195,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\145\\145554.mp3"
+  },
+  {
+    "track_id": 145555,
+    "artist_id": 23195,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\145\\145555.mp3"
+  },
+  {
+    "track_id": 145556,
+    "artist_id": 23195,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\145\\145556.mp3"
+  },
+  {
+    "track_id": 145606,
+    "artist_id": 23197,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\145\\145606.mp3"
+  },
+  {
+    "track_id": 145653,
+    "artist_id": 22090,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\145\\145653.mp3"
+  },
+  {
+    "track_id": 145724,
+    "artist_id": 13450,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\145\\145724.mp3"
+  },
+  {
+    "track_id": 145727,
+    "artist_id": 13450,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\145\\145727.mp3"
+  },
+  {
+    "track_id": 145728,
+    "artist_id": 13450,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\145\\145728.mp3"
+  },
+  {
+    "track_id": 145729,
+    "artist_id": 13450,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\145\\145729.mp3"
+  },
+  {
+    "track_id": 145730,
+    "artist_id": 13450,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\145\\145730.mp3"
+  },
+  {
+    "track_id": 145752,
+    "artist_id": 20146,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\145\\145752.mp3"
+  },
+  {
+    "track_id": 145754,
+    "artist_id": 20146,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\145\\145754.mp3"
+  },
+  {
+    "track_id": 145755,
+    "artist_id": 20146,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\145\\145755.mp3"
+  },
+  {
+    "track_id": 145756,
+    "artist_id": 20146,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\145\\145756.mp3"
+  },
+  {
+    "track_id": 145757,
+    "artist_id": 20146,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\145\\145757.mp3"
+  },
+  {
+    "track_id": 145758,
+    "artist_id": 20146,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\145\\145758.mp3"
+  },
+  {
+    "track_id": 145759,
+    "artist_id": 20146,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\145\\145759.mp3"
+  },
+  {
+    "track_id": 145760,
+    "artist_id": 20146,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\145\\145760.mp3"
+  },
+  {
+    "track_id": 145761,
+    "artist_id": 20146,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\145\\145761.mp3"
+  },
+  {
+    "track_id": 146017,
+    "artist_id": 23246,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\146\\146017.mp3"
+  },
+  {
+    "track_id": 146018,
+    "artist_id": 23246,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\146\\146018.mp3"
+  },
+  {
+    "track_id": 146019,
+    "artist_id": 23246,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\146\\146019.mp3"
+  },
+  {
+    "track_id": 146020,
+    "artist_id": 23246,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\146\\146020.mp3"
+  },
+  {
+    "track_id": 146458,
+    "artist_id": 22985,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\146\\146458.mp3"
+  },
+  {
+    "track_id": 146961,
+    "artist_id": 9765,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\146\\146961.mp3"
+  },
+  {
+    "track_id": 146968,
+    "artist_id": 9765,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\146\\146968.mp3"
+  },
+  {
+    "track_id": 146969,
+    "artist_id": 9765,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\146\\146969.mp3"
+  },
+  {
+    "track_id": 146970,
+    "artist_id": 9765,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\146\\146970.mp3"
+  },
+  {
+    "track_id": 147126,
+    "artist_id": 23212,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\147\\147126.mp3"
+  },
+  {
+    "track_id": 147295,
+    "artist_id": 22050,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\147\\147295.mp3"
+  },
+  {
+    "track_id": 147309,
+    "artist_id": 23212,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\147\\147309.mp3"
+  },
+  {
+    "track_id": 147409,
+    "artist_id": 19740,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\147\\147409.mp3"
+  },
+  {
+    "track_id": 147412,
+    "artist_id": 19740,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\147\\147412.mp3"
+  },
+  {
+    "track_id": 147413,
+    "artist_id": 19740,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\147\\147413.mp3"
+  },
+  {
+    "track_id": 147815,
+    "artist_id": 19443,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\147\\147815.mp3"
+  },
+  {
+    "track_id": 148186,
+    "artist_id": 22428,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\148\\148186.mp3"
+  },
+  {
+    "track_id": 148187,
+    "artist_id": 22428,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\148\\148187.mp3"
+  },
+  {
+    "track_id": 148190,
+    "artist_id": 22428,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\148\\148190.mp3"
+  },
+  {
+    "track_id": 148208,
+    "artist_id": 22428,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\148\\148208.mp3"
+  },
+  {
+    "track_id": 148210,
+    "artist_id": 22428,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\148\\148210.mp3"
+  },
+  {
+    "track_id": 148211,
+    "artist_id": 22428,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\148\\148211.mp3"
+  },
+  {
+    "track_id": 148212,
+    "artist_id": 22428,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\148\\148212.mp3"
+  },
+  {
+    "track_id": 148213,
+    "artist_id": 22428,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\148\\148213.mp3"
+  },
+  {
+    "track_id": 148214,
+    "artist_id": 22428,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\148\\148214.mp3"
+  },
+  {
+    "track_id": 148215,
+    "artist_id": 22428,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\148\\148215.mp3"
+  },
+  {
+    "track_id": 148216,
+    "artist_id": 22428,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\148\\148216.mp3"
+  },
+  {
+    "track_id": 148217,
+    "artist_id": 22428,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\148\\148217.mp3"
+  },
+  {
+    "track_id": 148218,
+    "artist_id": 22428,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\148\\148218.mp3"
+  },
+  {
+    "track_id": 148231,
+    "artist_id": 22428,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\148\\148231.mp3"
+  },
+  {
+    "track_id": 148233,
+    "artist_id": 22428,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\148\\148233.mp3"
+  },
+  {
+    "track_id": 148234,
+    "artist_id": 22428,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\148\\148234.mp3"
+  },
+  {
+    "track_id": 148235,
+    "artist_id": 22428,
+    "genre": "Folk",
+    "genre_idx": 2,
+    "file_path": "Datasets/fma/fma_small\\148\\148235.mp3"
+  },
+  {
+    "track_id": 148302,
+    "artist_id": 23551,
+    "genre": "Experimental",
+    "genre_idx": 1,
+    "file_path": "Datasets/fma/fma_small\\148\\148302.mp3"
+  },
+  {
+    "track_id": 148439,
+    "artist_id": 22985,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\148\\148439.mp3"
+  },
+  {
+    "track_id": 148510,
+    "artist_id": 17076,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\148\\148510.mp3"
+  },
+  {
+    "track_id": 148513,
+    "artist_id": 17076,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\148\\148513.mp3"
+  },
+  {
+    "track_id": 148514,
+    "artist_id": 17076,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\148\\148514.mp3"
+  },
+  {
+    "track_id": 148516,
+    "artist_id": 17076,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\148\\148516.mp3"
+  },
+  {
+    "track_id": 148517,
+    "artist_id": 17076,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\148\\148517.mp3"
+  },
+  {
+    "track_id": 148518,
+    "artist_id": 17076,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\148\\148518.mp3"
+  },
+  {
+    "track_id": 148519,
+    "artist_id": 17076,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\148\\148519.mp3"
+  },
+  {
+    "track_id": 149416,
+    "artist_id": 22128,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\149\\149416.mp3"
+  },
+  {
+    "track_id": 149417,
+    "artist_id": 22128,
+    "genre": "Rock",
+    "genre_idx": 7,
+    "file_path": "Datasets/fma/fma_small\\149\\149417.mp3"
+  },
+  {
+    "track_id": 149712,
+    "artist_id": 22430,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\149\\149712.mp3"
+  },
+  {
+    "track_id": 149714,
+    "artist_id": 22430,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\149\\149714.mp3"
+  },
+  {
+    "track_id": 150265,
+    "artist_id": 23212,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\150\\150265.mp3"
+  },
+  {
+    "track_id": 150266,
+    "artist_id": 23212,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\150\\150266.mp3"
+  },
+  {
+    "track_id": 150267,
+    "artist_id": 23212,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\150\\150267.mp3"
+  },
+  {
+    "track_id": 150268,
+    "artist_id": 23212,
+    "genre": "Instrumental",
+    "genre_idx": 4,
+    "file_path": "Datasets/fma/fma_small\\150\\150268.mp3"
+  },
+  {
+    "track_id": 151404,
+    "artist_id": 23880,
+    "genre": "Electronic",
+    "genre_idx": 0,
+    "file_path": "Datasets/fma/fma_small\\151\\151404.mp3"
+  },
+  {
+    "track_id": 152418,
+    "artist_id": 13021,
+    "genre": "International",
+    "genre_idx": 5,
+    "file_path": "Datasets/fma/fma_small\\152\\152418.mp3"
+  },
+  {
+    "track_id": 153955,
+    "artist_id": 22090,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\153\\153955.mp3"
+  },
+  {
+    "track_id": 153956,
+    "artist_id": 22090,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\153\\153956.mp3"
+  },
+  {
+    "track_id": 154303,
+    "artist_id": 23208,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\154\\154303.mp3"
+  },
+  {
+    "track_id": 154305,
+    "artist_id": 23208,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\154\\154305.mp3"
+  },
+  {
+    "track_id": 154306,
+    "artist_id": 23208,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\154\\154306.mp3"
+  },
+  {
+    "track_id": 154307,
+    "artist_id": 23208,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\154\\154307.mp3"
+  },
+  {
+    "track_id": 154308,
+    "artist_id": 23208,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\154\\154308.mp3"
+  },
+  {
+    "track_id": 154309,
+    "artist_id": 23208,
+    "genre": "Hip-Hop",
+    "genre_idx": 3,
+    "file_path": "Datasets/fma/fma_small\\154\\154309.mp3"
+  },
+  {
+    "track_id": 154413,
+    "artist_id": 24252,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\154\\154413.mp3"
+  },
+  {
+    "track_id": 154414,
+    "artist_id": 24252,
+    "genre": "Pop",
+    "genre_idx": 6,
+    "file_path": "Datasets/fma/fma_small\\154\\154414.mp3"
+  }
+]
